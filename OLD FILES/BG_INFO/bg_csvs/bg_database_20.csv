@@ -1,0 +1,401 @@
+Title,Geek Rating,Avg rating,Num of voters,Price,Year,Complexity,Min players,Max players,Min time,Max time,Age,Type 1,Type 2
+Caves of Rwenzori,5.504,7.15,47,N/A,2021,2.50,1,5,45,60,8,N/A,N/A
+The Gang,5.504,5.76,31,N/A,2011,1.50,2,5,15,30,8,N/A,N/A
+La vallée de la mort,5.504,5.74,71,N/A,2006,3.00,2,2,240,240,12,Wargames,N/A
+BrewMaster: The Craft Beer Game,5.504,5.6,164,N/A,2001,1.62,2,5,60,60,16,N/A,N/A
+RPGQuest: The Knights Templar,5.504,8.32,41,N/A,2005,1.71,4,12,30,30,12,N/A,N/A
+Monopoly: Game of Thrones,5.504,5.64,192,34.99,2018,1.33,2,6,N/A,N/A,N/A,N/A,N/A
+Top Gun: The Game of Modern Fighter Combat,5.504,5.89,101,N/A,1986,1.71,2,6,60,60,12,Wargames,N/A
+Ring-A-Ding-Ding,5.504,5.57,133,N/A,2011,1.00,2,6,10,10,4,N/A,N/A
+Code Sudoku,5.504,5.76,48,N/A,2005,2.71,1,4,N/A,N/A,7,N/A,N/A
+Zoomaka,5.504,6.78,99,N/A,2018,1.60,2,5,25,45,14,N/A,N/A
+Diceland,5.504,5.53,213,N/A,2002,1.95,2,2,30,30,10,Abstract,Strategy
+Shit Happens:  Full of Shit,5.504,5.98,32,N/A,2016,0.00,2,8,20,60,18,N/A,N/A
+The High Crusade,5.504,6.0,30,N/A,1983,2.80,2,2,45,45,12,Wargames,N/A
+Pilfering Pandas,5.504,5.82,30,N/A,2022,2.00,1,4,20,30,10,N/A,N/A
+Giant UNO,5.504,5.69,69,N/A,2015,1.00,2,10,N/A,N/A,7,N/A,N/A
+Nautic Miles,5.504,6.0,35,N/A,1977,1.60,2,6,60,60,N/A,Wargames,N/A
+Stadt-Land-anders,5.504,5.84,34,N/A,2016,1.00,2,99,15,40,8,N/A,N/A
+Faras,5.504,5.63,60,N/A,2014,1.57,2,5,30,30,6,N/A,N/A
+Awesome Kingdom: Mines & Labyrinths,5.504,5.96,38,N/A,2016,2.50,2,4,30,45,12,N/A,N/A
+Foxy,5.504,5.65,48,N/A,1977,1.25,2,2,10,10,8,Abstract,N/A
+Matchi,5.504,5.97,36,N/A,2020,1.00,2,2,15,30,8,Abstract,N/A
+Blood Royals,5.504,5.8,41,N/A,2017,1.00,2,2,30,30,12,N/A,N/A
+Astronauts: The Ultimate Space Game,5.504,5.72,76,N/A,2011,1.17,2,5,45,45,9,N/A,N/A
+Laser Attack,5.504,5.78,76,N/A,1978,1.14,2,4,20,20,7,Children's,N/A
+Artifact Stack,5.504,5.85,36,N/A,2017,1.25,2,4,20,20,10,N/A,N/A
+Sushi Draft,5.504,5.59,255,N/A,2012,1.40,3,5,15,15,8,Family,N/A
+Bubble Jungle,5.504,5.56,49,N/A,2017,1.00,2,4,10,10,5,N/A,N/A
+Zulu Attack,5.504,6.18,30,N/A,1982,2.17,2,2,90,90,12,Wargames,N/A
+Starship Duel I,5.504,6.27,31,N/A,1984,1.50,1,2,30,30,12,Wargames,N/A
+Jalan-Jalan,5.504,6.06,30,N/A,2018,1.00,3,5,30,45,14,N/A,N/A
+Antietam Campaign,5.504,5.86,32,N/A,1995,2.56,1,2,N/A,N/A,12,Wargames,N/A
+Galaxy Command,5.504,5.7,63,N/A,2015,1.60,1,4,10,45,10,N/A,N/A
+Slasher: The Final Cut,5.504,5.72,63,N/A,1994,1.67,3,6,60,60,12,N/A,N/A
+Granny's House,5.504,5.78,37,N/A,1985,1.00,1,6,30,30,4,Children's,N/A
+Gentleman's Deal,5.504,5.89,69,N/A,2016,1.00,5,9,30,60,12,N/A,N/A
+Finale,5.504,5.7,39,N/A,2005,1.00,2,2,15,15,8,Abstract,N/A
+Cards Against Disney,5.504,5.77,79,N/A,2018,1.00,4,20,30,60,17,N/A,N/A
+Qwordie,5.504,5.79,46,N/A,2015,1.00,2,8,30,30,12,Family,N/A
+Arcadia: The Wyld Hunt,5.504,5.7,158,N/A,1996,2.14,1,5,30,30,10,Customizable,N/A
+El Zorro del Desierto: Norte de Africa 1941-1942,5.504,5.96,37,N/A,1987,3.29,2,4,180,180,12,Wargames,N/A
+Atari's Missile Command,5.504,5.76,73,24.99,2018,2.00,3,6,30,45,14,N/A,N/A
+King Fridge,5.504,6.32,32,N/A,2021,0.00,2,6,20,30,7,N/A,N/A
+Bear Stare Down: The Card Game,5.504,5.66,39,N/A,2021,1.33,2,4,20,30,7,N/A,N/A
+DMZ: The Next Korean War,5.504,5.7,45,N/A,2010,2.38,1,2,60,120,N/A,Wargames,N/A
+Kalesia: the card game,5.504,5.74,32,N/A,2012,1.00,2,5,20,30,8,N/A,N/A
+Race For Tunis,5.504,5.77,42,N/A,1986,2.50,2,2,180,180,12,Wargames,N/A
+Meow! The Cult of Cat,5.504,5.91,30,N/A,2019,1.00,3,12,15,20,8,N/A,N/A
+Poo Pocalypse,5.504,5.66,46,N/A,2020,1.33,2,4,15,30,7,N/A,N/A
+Crystallized,5.504,5.85,70,N/A,2021,1.33,2,4,15,30,8,N/A,N/A
+Moscow Burning: The Next Russian Civil War,5.504,5.83,51,N/A,1996,2.43,2,2,120,120,12,Wargames,N/A
+Scene It? Music,5.504,5.71,113,43.99,2005,1.22,2,12,30,30,13,N/A,N/A
+Batman: Gotham City Mystery,5.504,5.71,75,N/A,2003,1.00,2,5,45,45,8,N/A,N/A
+Bullwinkle and Rocky Role Playing Party Game,5.504,5.67,73,N/A,1988,1.00,2,10,90,90,12,N/A,N/A
+Kuhno,5.504,5.67,48,N/A,2016,1.00,2,5,15,20,8,N/A,N/A
+Space Junk,5.504,5.76,108,N/A,2014,1.43,2,6,60,60,8,N/A,N/A
+Putin Strikes: The Coming War for Eastern Europe,5.504,6.24,39,N/A,2016,2.67,2,2,120,240,12,Wargames,N/A
+Dice Trip: Deutschland,5.504,5.71,36,N/A,2021,2.00,1,4,30,30,8,N/A,N/A
+Yarmuk,5.504,6.02,43,N/A,1997,2.56,2,2,N/A,N/A,12,Wargames,N/A
+Ocean Pods,5.504,6.42,37,N/A,2023,1.50,2,5,30,45,11,N/A,N/A
+Gem Dealer,5.504,5.55,392,N/A,2008,1.25,3,5,30,30,8,Family,N/A
+Go 500 Racing Dice Game,5.504,5.67,46,N/A,2005,1.17,1,6,5,5,N/A,N/A,N/A
+Attack Force,5.504,5.67,62,N/A,1982,1.57,2,2,60,60,10,Wargames,N/A
+Tryce,5.504,5.87,30,N/A,1969,1.60,3,6,10,10,N/A,N/A,N/A
+On the Road,5.504,5.82,53,N/A,2023,1.50,2,4,20,30,8,N/A,N/A
+Shopping List,5.504,5.6,148,N/A,1995,1.00,2,4,15,15,3,Children's,N/A
+PicWits!,5.504,5.7,75,N/A,2012,1.00,4,10,30,30,10,N/A,N/A
+Have You Herd?,5.504,5.62,84,N/A,2008,1.00,2,4,30,30,N/A,N/A,N/A
+Bzura 1939,5.504,5.81,64,N/A,1992,3.14,2,2,N/A,N/A,N/A,Wargames,N/A
+Pollyanna,5.504,6.38,30,N/A,1915,1.00,2,4,30,30,N/A,Abstract,N/A
+The Toast of the Town,5.504,5.82,38,N/A,2009,1.33,2,2,30,30,N/A,Wargames,N/A
+Round the World,5.504,5.68,63,N/A,2018,1.00,2,4,15,15,8,N/A,N/A
+Wie Waldi,5.504,5.73,32,N/A,2005,1.00,2,4,20,20,7,N/A,N/A
+Jurassic Wars,5.504,6.08,38,N/A,2009,1.33,2,5,25,25,8,N/A,N/A
+GrowerZ,5.504,5.99,37,16.61,2016,1.50,2,6,20,40,18,N/A,N/A
+Farmers Finances,5.504,6.3,46,N/A,2016,1.17,1,2,10,15,6,N/A,N/A
+Beugró,5.504,5.92,42,N/A,2009,1.50,6,16,60,60,12,N/A,N/A
+Do You Know Me?,5.504,5.84,52,N/A,2019,1.00,2,8,30,90,17,N/A,N/A
+Rifle & Saber: Tactical Combat 1850-1900,5.504,5.72,50,N/A,1973,2.40,2,2,90,90,12,Wargames,N/A
+Clue Mysteries,5.504,5.61,381,N/A,2005,1.50,2,6,60,60,8,Family,N/A
+The Battle of Agincourt,5.504,5.76,54,N/A,1978,2.43,2,2,120,120,12,Wargames,N/A
+Abtei der Rätsel,5.504,5.6,79,N/A,2011,1.67,2,4,45,45,10,N/A,N/A
+Land of Clans,5.504,5.81,32,N/A,2020,1.67,2,4,30,45,8,N/A,N/A
+Risk: Captain America – Civil War Edition,5.504,5.71,93,N/A,2016,1.50,2,4,75,90,10,N/A,N/A
+Quest: Edição Família,5.504,5.7,46,N/A,2008,1.00,2,6,45,45,10,N/A,N/A
+Metro 2033: Breakthrough,5.504,5.81,68,N/A,2015,2.50,2,5,45,45,12,N/A,N/A
+Monstermania,5.504,5.69,38,N/A,2010,1.00,2,5,15,15,5,Children's,N/A
+The Art of Science,5.504,5.93,79,N/A,2010,2.00,2,6,30,30,18,N/A,N/A
+Der Weg nach Drakonia,5.504,5.53,100,N/A,2005,2.31,2,6,90,90,8,N/A,N/A
+Ellery Queen's Mystery Magazine Game,5.504,5.61,40,N/A,1986,1.50,1,6,120,120,12,N/A,N/A
+Schweinebammel,5.504,5.59,172,N/A,2008,1.50,2,6,20,20,6,Children's,N/A
+Burp,5.504,5.57,113,N/A,1995,1.60,2,4,60,60,10,N/A,N/A
+Halli Galli Party,5.504,5.75,47,N/A,2017,1.00,2,4,15,15,8,N/A,N/A
+Dinosaur Dice,5.504,5.75,35,N/A,2004,1.33,2,4,10,10,4,Children's,N/A
+Architekton,5.504,5.54,1051,N/A,2005,1.61,2,2,30,45,8,Strategy,N/A
+Release!,5.504,5.82,64,N/A,2014,1.63,2,10,30,30,12,N/A,N/A
+Pentantastar,5.504,5.7,37,N/A,1983,2.17,2,4,120,120,12,Wargames,N/A
+Manda Huevos!,5.504,5.99,36,N/A,2021,0.00,2,4,10,15,6,N/A,N/A
+Bon Appetit!,5.504,5.65,88,N/A,2019,1.00,2,4,20,20,8,N/A,N/A
+Go Mental,5.504,5.74,35,34.46,2003,1.50,3,6,60,60,12,Abstract,N/A
+Status Report!,5.504,5.81,38,N/A,2018,2.33,3,7,10,20,13,N/A,N/A
+Wash Dash,5.504,5.79,48,N/A,2014,1.00,2,6,20,20,6,Children's,Family
+Sequence Num6ers,5.504,5.71,40,N/A,2008,1.00,2,6,N/A,N/A,7,Abstract,N/A
+Arrogance,5.504,5.83,30,N/A,2015,1.00,4,8,N/A,N/A,N/A,N/A,N/A
+G.I. Joe TCG,5.504,5.75,78,N/A,2004,1.38,2,2,5,5,10,Customizable,N/A
+Gangster,5.504,5.67,77,N/A,1985,1.75,2,6,60,120,11,N/A,N/A
+No Respect: Rodney Dangerfield's Game,5.504,5.68,46,N/A,1985,1.25,2,4,30,30,8,N/A,N/A
+The Walking Pet,5.504,5.6,106,N/A,2017,1.00,2,5,10,15,8,N/A,N/A
+Wulong,5.504,5.63,84,N/A,2017,1.00,2,5,30,60,10,N/A,N/A
+Castellers,5.504,5.56,168,N/A,2008,1.38,2,4,30,30,N/A,Family,N/A
+Knights of the Hound Table,5.504,6.27,30,N/A,2019,1.00,2,4,35,50,8,N/A,N/A
+Rolit Travel,5.504,5.76,56,N/A,2008,1.75,2,4,15,15,7,Abstract,N/A
+Undermine,5.504,5.63,116,N/A,2017,1.80,2,8,20,45,10,N/A,N/A
+Doomtrooper,5.504,5.73,510,N/A,1994,2.11,2,7,60,60,10,Customizable,N/A
+Teneriffa,5.504,5.64,48,N/A,2011,1.25,2,4,40,40,10,N/A,N/A
+Cartoona,5.504,5.74,280,N/A,2012,1.60,1,8,30,40,3,Family,N/A
+Passaportas,5.504,5.74,62,N/A,2017,1.33,2,6,30,45,8,N/A,N/A
+Zanzibar,5.504,5.58,154,N/A,2007,2.18,2,5,45,45,10,N/A,N/A
+TV Wars,5.504,5.58,285,N/A,1987,1.93,3,4,90,90,10,Family,Strategy
+Krash Karts,5.504,5.83,31,N/A,2014,1.71,2,6,30,30,8,N/A,N/A
+Eollis: Pirates des Vents,5.504,5.79,61,N/A,2007,2.33,3,5,120,120,10,N/A,N/A
+007 James Bond: Goldfinger,5.504,5.87,31,N/A,1985,1.33,2,2,20,20,8,N/A,N/A
+Twilight's Last Gleaming,5.504,5.78,38,N/A,1997,2.33,2,2,60,120,N/A,Wargames,N/A
+Oudordodo,5.504,5.78,39,N/A,N/A,1.00,2,4,10,10,4,Children's,N/A
+Kajko i Kokosz: Wielki Wyścig,5.504,5.65,56,N/A,2009,1.00,3,5,30,30,6,N/A,N/A
+Castle Blast,5.504,5.66,44,N/A,2013,1.00,2,4,10,10,5,N/A,N/A
+The Wonderful World of Disney Trivia 2: The Sequel,5.504,5.9,51,N/A,2000,1.00,4,4,45,45,10,Children's,N/A
+Aunt Millie's Millions,5.504,5.76,78,N/A,2007,1.11,3,6,20,20,10,N/A,N/A
+Quack in the Box,5.504,5.83,33,N/A,2010,1.25,2,6,45,45,13,N/A,N/A
+Sour Apples to Apples,5.504,5.59,255,N/A,2011,1.11,4,8,30,30,12,N/A,N/A
+Winzul,5.504,5.66,38,N/A,2020,2.00,2,4,60,180,10,N/A,N/A
+Down Under,5.504,5.54,241,N/A,2007,1.79,2,4,30,30,N/A,Family,N/A
+Twelve Men's Morris,5.504,5.8,68,N/A,N/A,2.25,2,2,20,20,8,Abstract,N/A
+Doktor Igel,5.504,5.76,34,N/A,2001,1.00,2,5,10,10,4,Children's,N/A
+Line Dice,5.504,5.86,36,N/A,2013,1.00,2,6,5,5,5,N/A,N/A
+Tranglar,5.504,6.8,32,N/A,2021,1.67,2,2,15,30,8,Abstract,N/A
+Picnic Blitz,5.504,5.74,51,N/A,2010,1.20,2,4,30,30,7,N/A,N/A
+Mini-Taurus,5.504,5.68,69,N/A,2012,1.29,2,4,15,15,7,N/A,N/A
+猿道 (Monkey Road),5.504,5.78,41,N/A,2015,1.00,2,4,15,15,8,N/A,N/A
+Teenage Mutant Ninja Turtles: Clash Alley Strategy Boardgame,5.504,5.67,42,N/A,2013,1.00,2,4,30,30,6,N/A,N/A
+Awesome Kingdom: The Tower of Hateskull,5.504,5.69,172,27.99,2015,1.25,2,4,30,45,12,N/A,N/A
+Kingdom Hearts TCG,5.504,6.13,61,N/A,2006,1.50,2,2,20,20,8,Customizable,N/A
+Legend of Heroes,5.504,5.69,53,N/A,1987,1.33,1,5,N/A,N/A,8,N/A,N/A
+Mint Bid,5.504,5.61,99,N/A,2021,1.80,1,6,15,60,13,N/A,N/A
+Chickamauga: River of Death,5.504,5.98,32,N/A,2010,2.00,1,2,60,60,12,Wargames,N/A
+"Kipp, Kipp, Ahoi!",5.504,5.64,61,N/A,2004,1.00,2,4,15,15,5,Children's,N/A
+Die Bombe,5.504,5.72,34,N/A,1998,1.00,3,6,20,20,9,N/A,N/A
+Top oder Flop,5.504,5.7,35,N/A,2006,1.67,2,5,30,30,10,N/A,N/A
+Don't You Forget It,5.504,5.55,71,N/A,1983,1.00,2,6,30,30,8,N/A,N/A
+Aliens vs. Zombies,5.504,5.7,37,N/A,2013,1.33,1,2,45,45,10,N/A,N/A
+Laser Battle,5.504,5.57,157,47.98,2006,2.00,2,2,5,15,8,Abstract,N/A
+Strawberry Ninja,5.504,5.56,284,N/A,2017,1.40,1,4,15,30,8,N/A,N/A
+Alien,5.503,5.59,69,N/A,1979,1.00,2,4,30,30,7,N/A,N/A
+Triple³,5.503,5.68,49,N/A,2013,1.00,2,4,15,15,8,N/A,N/A
+Lumen: The Lost World,5.503,5.58,163,N/A,2023,2.25,2,2,45,45,12,N/A,N/A
+Challenge Golf at Pebble Beach,5.503,5.72,60,N/A,1973,1.14,1,4,90,90,12,N/A,N/A
+Netzwerk,5.503,5.62,56,N/A,2003,2.00,2,4,45,45,N/A,N/A,N/A
+Shrieks & Creaks,5.503,6.08,53,N/A,1988,1.40,2,4,N/A,N/A,N/A,N/A,N/A
+Murphy's Magic Island,5.503,5.78,31,N/A,1992,1.50,2,6,10,10,8,N/A,N/A
+Rolling Bones,5.503,5.62,59,N/A,2011,1.00,2,99,30,30,10,N/A,N/A
+Chainmail,5.503,5.68,95,N/A,1971,2.33,2,10,360,360,12,Wargames,N/A
+Scattergories To Go,5.503,5.91,35,N/A,2007,1.00,2,4,30,30,10,N/A,N/A
+Merry Yard,5.503,5.67,41,N/A,2014,1.00,3,8,N/A,N/A,6,N/A,N/A
+Farlander,5.503,5.54,240,N/A,2002,1.62,2,4,30,30,10,Abstract,N/A
+Kniffel Kids,5.503,5.63,52,N/A,2009,1.00,2,6,15,15,5,N/A,N/A
+Island Hopper,5.503,5.54,83,N/A,2017,1.50,2,6,30,45,13,N/A,N/A
+Champions of Faith,5.503,5.66,38,N/A,2006,1.40,2,6,30,120,10,N/A,N/A
+Knusperhexe,5.503,5.72,30,N/A,2009,1.67,2,4,10,15,5,Children's,N/A
+All-Pro Football,5.503,5.9,39,N/A,1967,1.33,2,2,60,60,N/A,N/A,N/A
+Racko Plus,5.503,5.66,82,N/A,2001,1.00,2,4,30,30,8,N/A,N/A
+Freecell,5.503,5.63,187,N/A,N/A,1.71,1,1,20,20,8,N/A,N/A
+Counting Zzzzs,5.503,5.61,80,N/A,2003,1.45,2,4,45,45,10,N/A,N/A
+Psychologizer,5.503,6.3,37,N/A,N/A,1.25,2,8,N/A,N/A,N/A,N/A,N/A
+The X-Files Collectible Card Game,5.503,5.65,389,N/A,1996,2.39,2,2,60,60,10,Customizable,N/A
+Slap It!,5.503,5.84,46,N/A,2019,1.00,2,8,5,10,6,N/A,N/A
+Eagle Eye Agency,5.503,5.75,31,N/A,1982,2.20,1,6,30,30,12,N/A,N/A
+Schoko-Hexe,5.503,5.63,157,N/A,1990,1.09,2,6,20,20,5,N/A,N/A
+50 Clues: Escape the Blast Zone,5.503,5.7,33,N/A,2022,1.50,1,5,20,20,16,N/A,N/A
+Drago-Tuku,5.503,5.76,35,N/A,2013,1.00,3,4,20,20,5,N/A,N/A
+Million Dollar Password,5.503,5.81,73,N/A,2008,1.00,3,4,N/A,N/A,12,N/A,N/A
+Happy Party,5.503,5.71,32,N/A,2015,1.00,2,4,15,15,4,N/A,N/A
+Tokyo Washi Game Cats,5.503,5.65,43,N/A,2018,1.00,2,6,10,30,8,N/A,N/A
+HellRail,5.503,5.59,75,N/A,1998,2.00,2,4,30,30,12,N/A,N/A
+Monuments,5.503,5.8,85,N/A,2022,3.17,1,4,45,90,8,N/A,N/A
+The Game of Nasty Things...,5.503,5.76,159,N/A,2015,1.00,4,15,30,60,18,N/A,N/A
+Children of Fire,5.503,5.67,56,N/A,2005,2.54,2,5,60,60,12,N/A,N/A
+Halli Galli Extreme,5.503,5.75,397,N/A,2005,1.20,2,6,20,20,6,Party,N/A
+Newton,5.503,6.18,33,N/A,2017,1.25,2,2,5,15,8,Abstract,N/A
+W Zakładzie: Lubelski Lipiec '80,5.503,5.59,46,N/A,2012,2.00,3,6,60,60,10,N/A,N/A
+InuYasha TCG,5.503,5.85,34,N/A,2004,2.40,2,2,30,30,12,N/A,N/A
+Outburst II,5.503,5.65,129,36.99,1991,1.00,2,99,60,60,N/A,N/A,N/A
+Kampf der Magier,5.503,6.02,33,N/A,2008,1.00,2,6,20,20,7,Family,N/A
+Asterix & Obelix Mau Mau,5.503,5.77,33,N/A,2015,1.50,2,4,20,30,8,N/A,N/A
+With Sword and Shield,5.503,6.06,42,N/A,2008,1.57,2,6,30,30,12,N/A,N/A
+Buffy the Vampire Slayer CCG,5.503,5.58,136,N/A,2001,2.00,2,10,20,20,10,Customizable,N/A
+Masquerade,5.503,5.7,33,N/A,1986,1.00,3,12,90,90,10,N/A,N/A
+"Guardians of the Galaxy, Vol. 2: Gear Up and Rock Out! An Awesome Mix Card Game",5.503,5.93,36,N/A,2017,1.00,3,8,N/A,N/A,8,N/A,N/A
+Ostfriesenlauf,5.503,5.68,36,N/A,2005,1.00,2,4,45,45,10,N/A,N/A
+Mit Mist und Tücke,5.503,5.68,37,N/A,2014,1.00,2,4,20,20,5,N/A,N/A
+Pompeii: The Last Days,5.503,5.64,72,N/A,1989,2.00,2,8,180,180,8,N/A,N/A
+Klumpeduns,5.503,5.56,82,N/A,1986,1.00,1,6,30,30,3,N/A,N/A
+Neptune,5.503,5.68,39,N/A,2013,1.40,2,4,20,20,8,N/A,N/A
+Ogre Cheerleaders,5.503,5.74,33,N/A,2018,1.00,2,2,5,10,8,N/A,N/A
+Cranium: The Family Fun Game,5.503,5.58,358,N/A,2005,1.40,4,99,45,45,8,Family,N/A
+Topic_,5.503,5.79,37,N/A,2022,2.00,2,6,15,30,8,N/A,N/A
+Monopoly: London Nostalgia Wooden Box,5.503,5.77,31,N/A,2003,1.00,2,6,180,180,8,N/A,N/A
+Race Through Space,5.503,5.56,231,N/A,1988,1.11,2,4,15,15,6,Children's,N/A
+French Foreign Legion,5.503,5.7,40,N/A,2000,2.00,2,2,N/A,N/A,N/A,Wargames,N/A
+Tilt'n Tumble,5.503,5.68,42,N/A,1997,1.00,2,2,10,10,6,Abstract,N/A
+Desolated: Duel,5.503,5.42,52,N/A,2022,2.25,1,2,30,45,12,N/A,N/A
+Rainbow 35,5.503,5.74,66,N/A,2016,1.00,2,5,10,20,8,N/A,N/A
+Flea Market,5.503,5.58,116,31.99,2015,1.00,3,5,20,40,8,N/A,N/A
+Witty Chronos,5.503,5.85,47,N/A,2011,1.71,3,5,30,30,8,N/A,N/A
+Vaca Loca,5.503,5.84,30,N/A,2013,1.00,3,6,15,15,8,N/A,N/A
+Sparta vs. Athens,5.503,5.93,32,N/A,2014,2.83,2,2,240,240,N/A,Wargames,N/A
+La Legion: El juego de la Guerra de Africa,5.503,5.82,34,N/A,1984,2.00,2,4,90,120,12,Wargames,N/A
+Lunte,5.503,5.77,111,N/A,2014,1.00,3,6,15,20,8,N/A,N/A
+Skunk,5.503,5.7,62,N/A,1953,1.00,2,8,30,30,6,N/A,N/A
+Cinderella's Dance,5.503,5.59,111,N/A,2019,1.00,2,2,10,10,6,N/A,N/A
+CrossWays,5.503,5.69,53,25.99,2013,1.50,2,4,15,15,8,N/A,N/A
+Das Blaue Amulett,5.503,5.7,107,N/A,1986,1.67,2,4,60,60,10,N/A,N/A
+The Chronicles of Narnia: Prince Caspian – The Shield of Courage Card Game,5.503,5.89,39,N/A,2008,1.60,2,2,20,20,N/A,Family,Strategy
+The Great Game of Britain,5.503,5.65,184,N/A,1973,1.45,2,5,30,30,10,N/A,N/A
+Jungle Speed Kids,5.503,5.73,46,N/A,2018,1.00,2,6,15,30,4,N/A,N/A
+Janus,5.503,5.63,86,N/A,1993,1.14,3,6,20,20,8,N/A,N/A
+Bears in Barrels,5.503,5.7,57,N/A,2019,1.00,4,8,10,10,7,N/A,N/A
+DREBO,5.503,6.12,35,N/A,2022,1.50,2,4,15,30,7,N/A,N/A
+Legend of Camelot,5.503,5.72,49,N/A,1987,1.86,2,4,45,45,8,N/A,N/A
+Pizzeria Italia,5.503,5.76,51,N/A,2014,1.00,2,6,N/A,N/A,6,N/A,N/A
+Stratego: Pirates of the Caribbean at Worlds End,5.503,5.73,31,N/A,2007,1.67,2,2,30,30,8,N/A,N/A
+Spank the Yeti,5.503,5.84,56,N/A,2016,1.00,2,10,30,30,17,N/A,N/A
+Lord of the Dead,5.503,5.7,86,N/A,2015,1.40,1,3,10,30,N/A,N/A,N/A
+Super Hack Override,5.503,5.67,41,N/A,2016,1.25,2,6,10,20,8,N/A,N/A
+Where in the World?,5.503,5.66,58,N/A,1986,1.14,2,6,45,45,8,N/A,N/A
+Shoot The Moon,5.503,5.73,41,N/A,2004,1.20,2,6,N/A,N/A,8,N/A,N/A
+Indicios,5.503,5.82,46,N/A,1990,1.40,2,10,120,120,N/A,N/A,N/A
+Pitch Six,5.503,5.59,97,N/A,2003,1.63,3,6,30,30,12,N/A,N/A
+Munchkin Treasure Hunt,5.503,5.65,212,N/A,2014,1.00,2,6,60,60,6,N/A,N/A
+UNO Express,5.503,5.63,36,N/A,2018,1.00,2,4,N/A,N/A,7,N/A,N/A
+San Gimignano,5.503,5.51,147,N/A,2002,1.91,2,4,55,50,9,Abstract,N/A
+Tang Hu Lu (冰糖葫芦),5.503,5.63,58,N/A,2020,1.00,2,4,N/A,N/A,N/A,N/A,N/A
+FitzIt,5.503,5.63,151,N/A,2012,1.33,2,17,20,20,12,N/A,N/A
+Dragons of Underearth,5.503,5.8,30,N/A,1981,1.50,2,8,180,180,12,N/A,N/A
+Steal the Bacon,5.503,5.68,30,N/A,2021,1.00,3,8,10,10,8,N/A,N/A
+Husch Husch kleine Hexe,5.503,5.61,89,N/A,1994,1.00,2,6,15,15,3,Children's,N/A
+Monkeys Need Love Too,5.503,6.76,46,N/A,2015,1.33,2,6,15,60,8,N/A,N/A
+Phantom Rummy,5.503,5.74,37,N/A,2005,1.78,2,4,30,30,10,N/A,N/A
+Twilight's Last Gleaming 2,5.503,5.88,39,N/A,2004,2.43,1,2,180,180,N/A,Wargames,N/A
+Electronic Scattergories Platinum Edition,5.503,5.67,44,N/A,2001,1.00,2,99,10,10,12,N/A,N/A
+Numeri,5.503,5.66,47,N/A,1973,1.40,2,4,30,30,7,N/A,N/A
+Killer Party,5.503,5.76,49,N/A,2010,1.00,8,50,240,240,14,N/A,N/A
+Trailz,5.503,5.83,54,N/A,2019,1.33,2,2,N/A,N/A,7,N/A,N/A
+Minecraft Card Game?,5.503,5.62,1147,13.99,2015,1.19,2,4,15,45,8,Family,N/A
+Galatune,5.503,6.33,35,N/A,2016,1.50,2,5,20,20,10,N/A,N/A
+Clue: Supernatural,5.503,6.06,66,N/A,2014,1.25,2,6,45,45,8,N/A,N/A
+Geisteruhr,5.503,5.73,39,N/A,2017,1.00,2,4,5,15,5,N/A,N/A
+Jukem Football,5.503,5.8,31,N/A,2009,1.50,2,4,20,20,8,Children's,N/A
+Minestrone,5.503,5.71,31,N/A,2003,1.43,2,4,N/A,N/A,6,N/A,N/A
+Empires at War,5.503,5.55,61,N/A,1993,2.70,2,2,180,180,12,Wargames,N/A
+Mistigri,5.503,5.6,75,N/A,2005,1.00,2,4,10,10,4,N/A,N/A
+Chaos,5.503,5.77,77,N/A,1970,1.33,2,4,20,20,8,Abstract,N/A
+EverZone: Strategic Battles in the Universe,5.503,6.59,81,N/A,2014,2.73,2,6,30,30,10,N/A,N/A
+Wongamania,5.503,6.43,36,N/A,2014,2.00,2,6,30,30,8,N/A,N/A
+Pocket Dungeon Quest,5.503,5.76,175,N/A,2015,1.29,1,4,15,15,8,Family,Thematic
+Rock the Bock,5.503,5.84,51,N/A,2021,1.00,2,4,15,15,8,N/A,N/A
+Monkeyland,5.503,5.63,55,N/A,2011,1.08,2,5,15,15,5,Children's,N/A
+Ramba Samba,5.503,5.69,31,N/A,2006,1.00,2,4,15,20,4,Children's,N/A
+Phase 10: Das Brettspiel,5.503,5.62,307,N/A,2010,1.50,2,6,60,60,10,N/A,N/A
+The Forever War,5.503,5.69,53,N/A,1983,2.90,2,4,60,60,12,Wargames,N/A
+Dracarys Dice,5.503,5.7,126,N/A,2018,1.00,2,5,10,15,10,N/A,N/A
+High Hand,5.503,5.58,49,15.99,1963,1.83,2,4,60,60,10,Abstract,N/A
+Chrono Corsairs,5.503,5.95,61,N/A,2020,2.33,2,5,60,75,14,N/A,N/A
+Kurz vor Knapp,5.503,5.86,33,N/A,2020,1.33,2,4,30,30,8,N/A,N/A
+Politico: The Fall of Caesar,5.503,5.73,32,N/A,2010,1.78,3,4,30,30,N/A,N/A,N/A
+Sabacc,5.503,5.67,154,N/A,2019,1.20,2,8,5,15,10,N/A,N/A
+Schaska,5.503,5.68,32,N/A,1973,1.00,2,2,20,20,10,Abstract,N/A
+Arkansas Bluff,5.503,5.7,36,N/A,1975,1.00,3,6,45,45,12,N/A,N/A
+StelCon: Infinity,5.503,5.8,38,24.99,2013,2.25,2,6,60,270,13,N/A,N/A
+Zombie Mania!,5.503,5.82,70,N/A,2014,1.00,2,5,20,20,8,N/A,N/A
+Extreme Activity,5.503,5.72,36,N/A,2007,1.00,4,16,45,45,12,N/A,N/A
+Possession: A Daemonic Card Game,5.503,5.81,55,N/A,2019,2.00,1,4,60,120,14,N/A,N/A
+Luther: Das Spiel,5.503,5.63,59,N/A,2016,1.60,2,4,45,45,10,N/A,N/A
+Risk: The Elder Scrolls V – Skyrim,5.503,6.09,35,N/A,2019,1.50,2,5,60,60,13,N/A,N/A
+Mes Amis Sont...,5.503,5.79,34,N/A,2021,1.00,3,11,10,10,16,N/A,N/A
+Array,5.503,5.68,49,N/A,2012,1.00,2,5,N/A,N/A,8,N/A,N/A
+Myth: Pantheons,5.503,5.59,248,19.99,2010,2.38,3,6,45,45,10,Strategy,Thematic
+Deflection,5.503,5.81,41,N/A,1981,1.33,2,2,20,20,7,Abstract,N/A
+Blackrock Castle,5.503,5.62,43,N/A,2001,1.67,2,4,45,45,8,Children's,N/A
+Lorrein,5.503,5.77,39,N/A,2011,2.33,2,4,30,30,7,Abstract,N/A
+Stack Up!,5.503,5.68,72,N/A,2013,1.00,2,6,15,15,3,N/A,N/A
+Yoz,5.503,5.95,62,N/A,2019,1.13,1,4,N/A,N/A,7,N/A,N/A
+Mr. Lincoln's War: Army of the Tennessee,5.503,6.08,33,N/A,1983,3.55,1,2,N/A,N/A,12,Wargames,N/A
+Explorers of the Lost Valley,5.503,5.7,51,N/A,2016,1.00,2,4,15,25,10,N/A,N/A
+Go Fish Yourself,5.503,6.03,56,N/A,2015,1.00,2,6,10,45,17,N/A,N/A
+Tricky Badger,5.503,5.71,48,N/A,2023,2.00,3,5,25,45,10,N/A,N/A
+Pac-Man: The Card Game,5.503,5.63,69,8.95,2020,1.00,2,8,5,25,7,N/A,N/A
+Mystery! Motive for Murder,5.503,5.58,114,N/A,2015,2.00,1,5,30,90,10,N/A,N/A
+Battlecards: World Conflict – Pacific Theatre: Starter Set,5.503,5.66,65,N/A,2003,1.86,2,8,60,60,10,Wargames,N/A
+Mind Maze,5.503,5.59,65,N/A,1970,1.33,2,2,10,10,8,Abstract,N/A
+Two Bridges,5.503,5.67,30,N/A,2008,1.00,2,2,15,15,8,N/A,N/A
+Alley Thieves,5.503,5.8,30,N/A,2014,1.00,2,4,10,10,12,N/A,N/A
+Cluedo: Die drei ???,5.503,5.76,40,N/A,2013,1.25,2,6,30,30,8,N/A,N/A
+Konzern,5.503,5.67,32,N/A,1997,2.00,3,6,90,90,10,N/A,N/A
+Make a Mess: Holy Cat Edition,5.503,5.96,35,N/A,2017,1.00,2,6,6,15,7,N/A,N/A
+Cards Against Muggles,5.503,5.9,39,N/A,2018,1.00,4,20,30,90,17,N/A,N/A
+Power Play,5.503,5.71,34,N/A,1981,1.50,2,4,60,60,8,N/A,N/A
+Abbeville 1940,5.503,5.79,35,N/A,1996,2.83,2,2,N/A,N/A,12,Wargames,N/A
+Mythic Arcana,5.503,5.76,38,N/A,2018,1.50,2,4,20,30,13,N/A,N/A
+Mancala 4,5.503,5.82,41,N/A,N/A,1.33,2,4,30,30,N/A,Abstract,N/A
+Miskatonic Madness,5.503,5.91,45,N/A,2005,1.33,2,2,N/A,N/A,8,N/A,N/A
+Too Many Cooks,5.503,5.64,40,N/A,2001,1.33,2,5,90,90,12,N/A,N/A
+Empire (Third Edition),5.503,5.8,47,N/A,1981,4.33,2,2,180,180,14,Wargames,N/A
+Space Pirates,5.503,5.67,153,N/A,2009,1.79,2,4,60,60,12,N/A,N/A
+Splat!,5.503,5.67,185,N/A,1990,1.00,2,4,30,30,6,Children's,Family
+Guadalcanal,5.503,5.76,30,N/A,1983,2.14,2,4,240,240,12,Wargames,N/A
+A Game For Good Christians,5.503,5.64,34,N/A,2013,1.00,4,7,20,1,18,N/A,N/A
+Unlocked: The Mansion of Mana,5.503,5.98,35,N/A,2016,1.67,1,5,30,60,13,N/A,N/A
+Mattock,5.503,5.72,77,N/A,2020,2.25,2,2,5,40,8,Abstract,N/A
+Cobra,5.503,5.65,37,N/A,2007,1.33,2,5,10,10,N/A,N/A,N/A
+Kings Under Mountains,5.503,5.64,109,N/A,2013,1.83,2,4,30,45,10,N/A,N/A
+A Wanderer in the Forest of Wyr,5.503,5.73,30,N/A,2016,1.67,1,1,20,40,10,N/A,N/A
+Rally Up!,5.503,5.59,108,N/A,2015,1.10,2,8,10,10,6,N/A,N/A
+Peek-a-Boo!,5.503,5.78,32,N/A,2012,1.33,2,4,30,30,6,N/A,N/A
+Migration: Mars,5.503,5.76,128,N/A,2020,2.18,2,4,60,120,12,N/A,N/A
+NeoN,5.503,5.65,36,N/A,2010,1.67,2,6,20,20,8,N/A,N/A
+Nosey Neighbor Card Game,5.503,5.67,145,N/A,1981,1.08,2,6,20,20,7,Children's,N/A
+Holidays,5.503,5.66,45,N/A,2005,1.00,2,4,N/A,N/A,8,N/A,N/A
+Katego,5.503,5.57,81,N/A,1990,1.06,2,4,20,20,8,Family,N/A
+Pamplona: Viva San Fermín!,5.503,5.73,180,N/A,2011,2.64,2,4,45,45,8,N/A,N/A
+Risk: Marvel Cinematic Universe,5.503,5.82,55,N/A,2015,1.50,2,5,60,60,10,N/A,N/A
+PowerShot Soccer,5.503,5.61,49,N/A,2006,1.00,2,2,20,20,8,N/A,N/A
+Dungeon Heroes Manager,5.503,5.95,32,N/A,2016,2.67,2,6,60,90,10,N/A,N/A
+The Garden Game,5.503,6.06,62,N/A,1980,1.67,2,4,N/A,N/A,12,N/A,N/A
+Claymania,5.503,5.61,35,N/A,1993,1.00,4,99,30,30,10,N/A,N/A
+Funny Fishing,5.503,5.75,62,N/A,2006,1.00,2,5,15,15,4,Children's,N/A
+Lost Explorers,5.503,5.62,354,19.50,2021,1.67,2,4,40,40,10,N/A,N/A
+Kokoriko,5.503,5.68,62,N/A,2012,1.00,2,4,10,10,6,N/A,N/A
+PRRRT...,5.503,5.57,108,N/A,2011,1.40,3,7,15,15,8,N/A,N/A
+Hats Off,5.503,5.61,47,N/A,1968,1.00,2,4,10,10,5,Children's,N/A
+Mammalath,5.503,5.6,92,N/A,2019,1.00,2,2,N/A,N/A,N/A,Abstract,N/A
+Pro Foto-Football,5.503,5.66,41,N/A,1977,1.17,2,2,N/A,N/A,12,N/A,N/A
+Blast,5.503,5.66,38,N/A,2021,1.50,2,2,15,30,10,N/A,N/A
+Hoshi Battle,5.503,5.71,41,N/A,2014,1.00,2,2,10,10,7,N/A,N/A
+The Amberden Affair,5.503,5.74,66,N/A,2013,1.75,3,6,45,45,12,N/A,N/A
+What the Cup!?,5.503,5.7,52,18.60,2023,1.00,3,6,10,20,12,N/A,N/A
+"The Last Panzer Victory: The Battle of Debrecen – Hungary, 1944",5.503,5.86,41,N/A,1983,3.20,1,2,120,360,12,Wargames,N/A
+The Bagged Peiper,5.503,5.75,32,N/A,2010,1.50,1,2,30,30,N/A,Wargames,N/A
+Black Stories: Science-Fiction Edition,5.503,5.85,35,N/A,2016,1.50,2,22,2,222,12,N/A,N/A
+Trivial Pursuit: Globetrotter,5.503,5.57,120,N/A,2002,1.11,2,6,60,90,12,N/A,N/A
+Wordstacker,5.503,5.99,36,N/A,2017,1.00,2,6,15,30,10,N/A,N/A
+The Abandons,5.503,5.92,128,N/A,2019,1.40,1,1,5,15,14,N/A,N/A
+Kittys,5.503,5.74,36,N/A,2017,1.00,3,6,5,30,8,N/A,N/A
+Animator vs Animation,5.503,9.1,50,N/A,2018,1.33,2,8,15,30,8,N/A,N/A
+Meteors,5.503,6.55,33,N/A,2018,1.67,2,5,15,30,10,N/A,N/A
+Gänsemarsch,5.503,5.66,31,N/A,2009,1.00,2,6,10,10,3,Children's,N/A
+Simply Suspects,5.503,5.59,153,N/A,2003,1.31,2,6,15,15,8,N/A,N/A
+ButterKO,5.503,5.67,30,N/A,2016,0.00,2,8,10,20,8,N/A,N/A
+Zona Mágica,5.503,5.99,34,N/A,2016,2.60,3,5,90,150,14,N/A,N/A
+Chickapiglets,5.503,5.84,35,N/A,2019,1.00,2,4,15,30,4,N/A,N/A
+Grunwald: Walka 600-lecia,5.503,5.67,33,N/A,2010,1.50,2,2,30,30,12,N/A,N/A
+2ème D.B. 'I' Normandie,5.503,5.79,36,N/A,1983,3.14,2,2,N/A,N/A,12,Wargames,N/A
+Austin Poker,5.503,5.67,34,N/A,2004,2.40,3,6,N/A,N/A,12,N/A,N/A
+Zingo! 1-2-3,5.503,6.07,44,N/A,2009,1.00,2,6,5,5,4,Children's,N/A
+Canadian Civil War: La Guerre de la Sécession du Canada,5.503,5.64,38,N/A,1977,3.10,4,4,60,360,12,Wargames,N/A
+Battle of the Five Armies,5.503,5.76,36,N/A,1975,2.71,2,5,180,180,12,Wargames,N/A
+BITS Mitbringspiel,5.503,5.64,37,N/A,2012,1.00,1,4,20,20,8,Abstract,N/A
+Treatment: A Psychiatry Card Game,5.503,5.83,40,N/A,2016,1.00,2,5,20,30,12,N/A,N/A
+Wabbit's Wevenge,5.503,5.56,105,N/A,1986,1.55,2,4,120,120,12,Thematic,N/A
+Szczury Pustyni,5.503,5.85,43,N/A,1996,3.38,2,2,480,480,N/A,Wargames,N/A
+Power Yahtzee,5.503,5.74,44,N/A,2007,1.33,1,4,25,25,8,N/A,N/A
+Warangel Card Game,5.503,6.12,49,N/A,2001,1.50,2,10,60,60,12,Wargames,N/A
+The Dog's Meow,5.503,5.73,33,N/A,2001,1.00,2,6,10,10,6,N/A,N/A
+Unter Geiern,5.503,5.82,39,N/A,2009,1.33,2,6,30,30,10,N/A,N/A
+15 Men,5.503,5.84,66,N/A,2019,1.60,2,5,45,60,14,N/A,N/A
+Bin'Fa: The Tao of War,5.503,5.78,62,N/A,2015,1.50,2,6,20,20,12,N/A,N/A
+Bakong,5.503,5.52,560,N/A,2009,1.29,2,6,20,20,8,Family,N/A
+Demigods Evolution,5.503,5.43,47,N/A,2014,3.33,2,4,120,120,13,N/A,N/A
+Tensão Total,5.503,5.56,78,N/A,2009,1.06,2,6,15,15,8,Family,N/A
+Race for the Summit,5.503,5.72,42,N/A,2009,1.20,2,6,40,40,8,Family,N/A
+Hero: A Game of Adventure in the Catacombs,5.503,5.75,63,N/A,1980,2.40,2,3,60,120,12,N/A,N/A
+Scrabble: Harry Potter,5.503,6.21,42,N/A,2019,1.00,2,4,N/A,N/A,N/A,N/A,N/A
+"Sexy, el juego del arte del flirteo",5.502,6.02,40,N/A,2014,1.63,3,4,120,120,18,Party,N/A
+Schätzbold,5.502,5.64,35,N/A,2004,1.20,3,6,30,30,12,N/A,N/A
+Nelly,5.502,5.59,56,N/A,2009,1.25,2,4,25,25,6,Children's,N/A
+Dragon Storm,5.502,5.79,40,N/A,1996,2.40,2,8,120,120,N/A,Customizable,N/A
+Uptown,5.502,6.12,31,71.93,2022,2.00,2,4,45,45,10,N/A,N/A
+The American Civil War,5.502,5.74,412,N/A,2001,2.65,2,4,240,240,12,Wargames,N/A
+Wissens-Spektrum,5.502,5.65,53,N/A,1984,1.88,2,6,N/A,N/A,12,N/A,N/A
+Space Blast,5.502,5.59,52,N/A,2004,1.60,3,6,20,20,10,Wargames,N/A
+Hide & Seek Safari,5.502,5.61,55,N/A,2005,1.29,2,2,20,20,4,Children's,N/A
+Incohearent: Family Edition,5.502,5.67,42,N/A,2020,1.00,2,20,20,40,12,N/A,N/A
+Mermaid Beach,5.502,5.84,59,N/A,2011,1.00,2,5,15,15,6,N/A,N/A
+MetaZoo: Cryptid Nation,5.502,6.04,39,N/A,2021,4.00,2,6,20,60,13,N/A,N/A
+Transformers Battling Card Game,5.502,5.77,40,N/A,2007,1.00,2,2,20,20,N/A,N/A,N/A
+Tongues Out!,5.502,5.59,40,N/A,2022,1.00,2,4,5,20,4,N/A,N/A
+Operation Apocalypse,5.502,5.79,47,N/A,1996,2.14,1,1,120,120,12,Wargames,N/A
+"Ready, Set, Sloth!",5.502,5.7,50,N/A,2020,1.00,2,4,15,15,4,N/A,N/A
+Scriptoria,5.502,6.82,39,N/A,N/A,2.50,2,4,30,60,10,N/A,N/A
+Lady Richmond: Ein erzocktes Erbe,5.502,5.57,85,N/A,2016,1.25,2,5,30,30,8,N/A,N/A
+Ruin,5.502,5.55,109,N/A,2008,1.63,2,4,45,45,10,N/A,N/A
+Dipole,5.502,5.61,47,N/A,2007,2.78,2,2,30,30,N/A,Abstract,N/A

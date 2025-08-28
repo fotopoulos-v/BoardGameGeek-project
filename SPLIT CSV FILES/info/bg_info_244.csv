@@ -1,0 +1,101 @@
+Title,Geek rating,Avg rating,Num of voters,Price,Year,Complexity,Min players,Max players,Min time,Max time,Min age,Type 1,Type 2
+Jade König,5.5,5.62,39,N/A,1986,2.0,2,6,90,90,8,N/A,N/A
+Polar Panic,5.5,5.67,32,N/A,2018,1.0,2,6,10,10,6,N/A,N/A
+Pathfinder Arena,5.5,6.72,49,N/A,2024,3.0,1,4,60,80,12,N/A,N/A
+Fruit Mix,5.5,5.59,34,N/A,2015,0.0,1,6,10,20,6,N/A,N/A
+Quirky,5.5,5.88,30,N/A,2017,1.0,3,N/A,N/A,N/A,10,N/A,N/A
+Discovering Europe,5.5,6.02,32,N/A,1996,2.0,2,6,N/A,N/A,8,N/A,N/A
+The Game of Life: Disney Parks – Theme Park Edition,5.5,5.57,30,N/A,2020,1.0,2,4,60,120,8,N/A,N/A
+Goblin Uprising,5.5,9.11,32,N/A,2023,1.5,2,6,60,120,12,Thematic,N/A
+10 Nights,5.5,5.75,56,N/A,2020,1.0,3,8,10,10,12,N/A,N/A
+Clumsy Thief,5.5,5.72,65,N/A,2013,1.0,2,6,15,15,8,N/A,N/A
+"Flying Circus: Tactical Aerial Combat, 1915-1918",5.5,5.85,57,N/A,1972,2.67,2,6,90,90,12,Wargames,N/A
+Code Monkey Island,5.5,5.64,32,N/A,2014,1.33,2,4,45,45,6,N/A,N/A
+Diced Cheese,5.5,5.74,31,N/A,2021,1.0,2,6,15,45,5,N/A,N/A
+Dungeons & Dragons Adventure Game: Diablo II Edition,5.5,5.59,133,N/A,2000,2.43,2,6,30,30,10,Thematic,N/A
+Morris the Dodo,5.5,5.61,31,N/A,2023,0.0,2,4,10,10,3,N/A,N/A
+Trusis,5.5,7.06,47,N/A,2009,1.86,3,30,20,40,8,N/A,N/A
+Galapagos,5.5,5.49,126,N/A,2013,1.4,2,4,30,30,8,N/A,N/A
+Pan's Island,5.5,5.58,162,N/A,2022,1.5,2,5,45,60,10,Children's,Thematic
+Piwne Imperium,5.5,5.68,51,N/A,2013,3.3,2,3,120,120,12,N/A,N/A
+"Dice 10,000",5.5,5.65,48,N/A,N/A,1.0,2,8,45,45,10,N/A,N/A
+Thrown,5.5,5.53,46,N/A,2019,1.5,3,5,40,40,14,N/A,N/A
+The Touch,5.5,5.41,34,N/A,2002,1.0,2,6,45,45,N/A,Children's,N/A
+Alex Colt: Cadete Espacial,5.5,5.49,52,N/A,2017,1.0,4,10,15,15,10,N/A,N/A
+NFL Game Day,5.5,5.68,89,N/A,2013,1.33,2,4,N/A,N/A,9,N/A,N/A
+Launchpad 23,5.5,5.58,62,N/A,2011,1.6,2,4,15,15,N/A,N/A,N/A
+Schuss und Tor,5.5,5.54,74,N/A,1973,1.0,2,4,10,10,8,N/A,N/A
+Ex & Hopp,5.5,5.49,70,N/A,1996,1.17,2,6,30,30,10,N/A,N/A
+The Lord of the P.I.G.S.,5.5,5.8,80,N/A,2014,1.89,2,4,30,30,16,N/A,N/A
+Chez Guevara,5.5,5.53,212,N/A,2006,1.59,2,5,45,60,12,N/A,N/A
+Ravnica: Inquisition,5.5,5.48,44,31.52,2019,1.2,5,10,15,30,14,N/A,N/A
+Monopoly: One Piece Edition,5.5,5.88,35,N/A,2019,1.0,2,6,60,180,5,N/A,N/A
+Goblin Dice,5.5,5.66,99,N/A,2015,1.5,2,6,15,30,8,N/A,N/A
+Eyes on the Prize,5.5,5.41,38,15.99,2016,1.0,2,4,10,20,6,N/A,N/A
+Action Cats!,5.5,5.53,60,N/A,2017,1.0,3,6,20,45,9,N/A,N/A
+Monopoly for Sore Losers,5.5,5.7,51,N/A,2020,2.0,2,6,N/A,N/A,8,N/A,N/A
+La Trel,5.5,5.62,56,N/A,1994,1.6,2,2,60,60,10,Abstract,N/A
+Polarity,5.5,5.65,33,N/A,2002,1.0,2,4,2,2,N/A,N/A,N/A
+Duel of Wands,5.5,5.75,30,N/A,2021,0.0,2,2,30,45,10,N/A,N/A
+7 Ghosts,5.5,6.5,32,N/A,2018,0.0,1,2,20,25,9,N/A,N/A
+ROX,5.5,5.54,123,N/A,2014,1.0,2,4,15,15,7,N/A,N/A
+Pun Intended,5.5,5.5,81,N/A,2018,1.25,4,12,60,60,13,N/A,N/A
+Timestreams: Deck 1 – Stone Age vs. Future Tech,5.5,5.68,62,N/A,2009,2.4,2,4,45,60,8,N/A,N/A
+1000 Bornes Express,5.5,5.72,60,N/A,2009,1.25,2,4,15,15,6,N/A,N/A
+Tetris Speed,5.5,5.83,120,N/A,2019,1.0,2,8,2,5,6,N/A,N/A
+Samurai Jack: Back to the Past,5.5,5.88,86,N/A,2018,1.8,2,5,45,60,13,N/A,N/A
+Universal Fighting System: Penny Arcade,5.5,5.69,67,N/A,2006,2.17,2,2,30,30,10,N/A,N/A
+This Belongs in a Museum,5.5,5.72,60,N/A,2017,2.0,2,4,20,30,10,N/A,N/A
+LEGO Time Cruisers Game,5.5,5.54,42,N/A,1997,1.0,2,4,30,30,8,Children's,N/A
+Villainy: The Supervillainous Card Game,5.5,5.62,40,N/A,2005,1.6,2,2,N/A,N/A,10,N/A,N/A
+Accordion,5.5,5.47,37,N/A,N/A,2.0,1,1,N/A,N/A,N/A,N/A,N/A
+Wild West Express,5.5,5.47,36,N/A,2010,2.17,2,5,180,180,12,N/A,N/A
+Superfight: The Walking Dead Deck,5.5,5.75,36,N/A,2015,1.0,3,10,30,30,12,N/A,N/A
+Jenga Mini,5.5,5.72,36,9.19,2016,3.0,1,8,10,10,6,N/A,N/A
+Pokémon TCG: Rumble,5.5,5.8,36,N/A,2009,1.25,2,7,30,30,7,Children's,N/A
+Fever Chill,5.5,5.4,30,N/A,2015,1.0,3,3,10,20,5,N/A,N/A
+The Battle of Balaclava,5.5,5.63,30,N/A,1975,0.0,2,2,30,30,8,Wargames,N/A
+Beast Hunt,5.5,8.2,63,N/A,2024,0.0,2,6,30,120,14,N/A,N/A
+Bump in the Night,5.5,5.61,202,45.0,2008,2.4,2,6,60,60,12,Strategy,N/A
+Mine!,5.5,5.42,53,N/A,1993,2.33,3,5,60,60,13,N/A,N/A
+Halli Galli Junior,5.5,5.49,256,N/A,1998,1.0,2,4,15,15,4,Children's,N/A
+Sudden Death!,5.5,5.49,39,N/A,1978,1.67,2,4,30,30,N/A,Abstract,N/A
+Katego,5.5,5.5,89,N/A,1990,1.06,2,4,20,20,8,Family,N/A
+Seven Card Samurai,5.5,5.57,176,N/A,2010,1.27,2,8,30,30,9,Family,N/A
+ShutterBug,5.5,5.49,72,N/A,2017,1.25,2,6,20,40,8,N/A,N/A
+Hepta,5.5,5.47,56,N/A,1974,1.5,1,2,20,20,N/A,Abstract,N/A
+Connect 4 Flip,5.499,5.31,32,N/A,2000,1.25,2,2,5,5,8,Abstract,N/A
+Operation Rescue Kit,5.499,5.56,52,N/A,2006,1.0,2,4,N/A,N/A,6,N/A,N/A
+Tiger Stripes,5.499,5.53,31,N/A,2011,1.0,2,4,10,10,5,N/A,N/A
+The Abandons,5.499,5.88,130,N/A,2019,1.33,1,1,5,15,14,N/A,N/A
+Trivial Pursuit: Genus (2) Edition (German),5.499,5.57,47,N/A,1995,1.6,2,36,60,60,N/A,N/A,N/A
+Tumba,5.499,5.54,61,N/A,2006,1.0,1,99,5,5,8,N/A,N/A
+Tops,5.499,5.48,52,N/A,2002,1.2,2,4,20,20,7,N/A,N/A
+Dreaming Dragon,5.499,5.59,52,N/A,2012,1.0,2,4,30,30,6,N/A,N/A
+Mermaid Beach,5.499,5.71,63,N/A,2011,1.0,2,5,15,15,6,N/A,N/A
+Lord of the Dead,5.499,5.61,87,N/A,2015,1.4,1,3,10,30,N/A,N/A,N/A
+Hats Off,5.499,5.47,49,N/A,1968,1.0,2,4,10,10,5,Children's,N/A
+UNO House Rules,5.499,5.64,93,N/A,1998,1.0,2,10,30,30,7,Family,N/A
+Crossado,5.499,5.44,30,N/A,1979,1.0,2,4,30,30,8,N/A,N/A
+Such & Such,5.499,5.49,43,N/A,2005,1.25,4,10,40,40,10,N/A,N/A
+Bop It!: Star Wars R2-D2 Edition,5.499,5.46,32,N/A,2015,1.0,1,99,N/A,N/A,8,N/A,N/A
+UNIMO,5.499,5.79,34,N/A,2017,0.0,2,8,5,20,8,N/A,N/A
+Monopoly: Night Sky,5.499,5.65,31,N/A,2004,1.5,2,6,120,120,8,N/A,N/A
+Odin's Table,5.499,5.71,110,N/A,2010,1.73,2,2,20,20,10,N/A,N/A
+Bad Doctor,5.499,5.64,62,N/A,2018,1.5,2,4,30,40,10,N/A,N/A
+Cat 10,5.499,5.65,43,N/A,2013,1.33,2,6,15,15,6,N/A,N/A
+Maskenball Venezia,5.499,5.56,73,N/A,1999,1.1,5,12,20,20,10,N/A,N/A
+The Really Nasty Motor Racing Game,5.499,5.58,72,N/A,2006,1.42,2,6,N/A,N/A,N/A,N/A,N/A
+Der grosse Gallier,5.499,5.49,63,N/A,2001,1.6,2,6,60,60,10,N/A,N/A
+Sink the Bismarck,5.499,5.57,55,N/A,2008,1.07,1,1,25,25,N/A,Wargames,N/A
+Za Dan,5.499,5.55,48,N/A,2009,1.29,5,8,20,20,8,Party,N/A
+Doodle Dice,5.499,5.58,550,N/A,2006,1.05,2,6,20,30,6,Family,N/A
+The Dickens Game,5.499,5.66,35,N/A,1983,1.67,2,4,30,30,8,N/A,N/A
+卑怯なコウモリ (Cowardly Bat),5.499,5.5,32,N/A,2012,1.17,4,7,20,20,8,N/A,N/A
+Uglydoll: Babo's Cookies,5.499,6.32,39,N/A,2015,1.0,3,10,15,15,6,N/A,N/A
+Kittys,5.499,5.56,41,N/A,2017,1.0,3,6,5,30,8,N/A,N/A
+Charge it!,5.499,5.55,73,N/A,1972,1.0,2,6,30,30,N/A,N/A,N/A
+Your Friend Is Sad,5.499,5.73,78,N/A,2021,1.0,1,4,15,30,14,N/A,N/A
+Mall World,5.499,5.53,321,14.96,2004,2.82,3,5,80,80,12,Strategy,N/A
+Wordariffic,5.499,5.5,44,N/A,2015,1.25,2,6,20,30,6,N/A,N/A
+dude,5.499,5.52,527,15.99,2018,1.0,3,6,1,5,13,N/A,N/A

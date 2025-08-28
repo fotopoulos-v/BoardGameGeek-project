@@ -1,0 +1,101 @@
+Title,Geek rating,Avg rating,Num of voters,Price,Year,Complexity,Min players,Max players,Min time,Max time,Min age,Type 1,Type 2
+Panda Head,5.498,5.48,83,N/A,2015,1.2,2,5,10,20,7,N/A,N/A
+YAK,5.498,5.43,71,N/A,2015,1.0,2,6,N/A,N/A,8,N/A,N/A
+UNO Hearts,5.498,5.66,164,N/A,1994,2.0,2,8,30,30,7,N/A,N/A
+My Little Pony Rainbow Magic Game,5.498,5.52,39,N/A,2014,1.0,2,4,N/A,N/A,3,N/A,N/A
+Borneo,5.498,5.52,189,33.99,2007,2.2,3,5,30,45,10,Family,Strategy
+Cheeky Monkeys,5.498,5.62,31,N/A,2016,2.0,2,6,10,30,7,N/A,N/A
+The Game of Pilgrim's Progress,5.498,5.71,34,N/A,1994,1.33,2,4,45,45,5,Children's,N/A
+"""Oh My God! There's An Axe In My Head."" The Game of International Diplomacy ",5.498,5.74,90,46.99,2014,2.17,2,6,60,60,16,N/A,N/A
+Deuce,5.498,5.45,42,N/A,1985,1.0,2,6,20,20,8,N/A,N/A
+This Hallowed Ground,5.498,5.44,34,N/A,1989,1.88,2,2,120,120,12,Wargames,N/A
+Ace of Spies,5.498,5.62,89,N/A,2012,1.6,2,5,30,30,10,N/A,N/A
+60-Second Slam,5.498,5.5,33,N/A,2016,1.0,2,6,N/A,N/A,10,N/A,N/A
+Slow Freight,5.498,5.43,65,N/A,2004,1.63,2,4,N/A,N/A,10,N/A,N/A
+Stellar Armada,5.498,5.57,68,N/A,2017,1.0,1,4,10,20,13,Wargames,N/A
+Space Fleet,5.498,5.61,150,N/A,1991,1.83,2,4,60,60,8,N/A,N/A
+King Arthur,5.498,5.4,45,N/A,2014,1.33,1,4,30,45,8,Family,N/A
+Argue!,5.498,5.54,47,N/A,2005,1.0,3,10,N/A,N/A,N/A,N/A,N/A
+Capybara 'n' Capybara,5.498,5.47,169,N/A,2021,1.5,2,4,30,30,8,N/A,N/A
+Aya,5.498,5.5,42,N/A,1992,1.25,1,8,20,20,8,Abstract,N/A
+"Schnapp, Land, Fluss!",5.498,5.43,63,N/A,2002,1.0,2,6,15,15,8,N/A,N/A
+Columbo Detective Game,5.498,5.61,48,N/A,1973,1.75,2,4,60,60,10,N/A,N/A
+Apokalypsis,5.498,5.6,42,N/A,2017,2.0,3,6,30,45,13,N/A,N/A
+City States of Arklyrell,5.498,5.44,40,N/A,1983,2.5,2,4,120,120,10,Wargames,N/A
+INTERACTION: No more boredom!,5.498,6.41,50,N/A,2017,1.0,2,9,30,60,8,N/A,N/A
+Fortresses & Clans,5.498,6.02,44,N/A,2017,2.5,2,2,45,90,14,N/A,N/A
+Spires of the Kremlin,5.498,5.54,35,N/A,1994,3.38,1,4,120,960,N/A,Wargames,N/A
+Timeland: A Taluva adventure,5.498,5.61,33,N/A,2021,1.5,1,4,20,45,8,N/A,N/A
+Monopoly: Rudolph the Red-Nosed Reindeer,5.498,5.58,36,N/A,2005,1.0,2,6,120,120,8,N/A,N/A
+Napoleon Dynamite: It's Pretty Much My Favorite Animal Game,5.498,5.56,32,N/A,2005,1.0,3,4,30,30,12,N/A,N/A
+Adventure Cards,5.498,5.5,30,N/A,1998,1.0,2,5,10,10,10,N/A,N/A
+Black Stories: Office Edition,5.498,5.34,32,N/A,2014,1.0,2,15,20,20,12,N/A,N/A
+City Blox,5.498,5.59,130,N/A,2019,1.0,2,4,15,20,6,N/A,N/A
+Clairvoyance,5.498,5.55,32,N/A,2013,1.0,2,5,15,15,13,N/A,N/A
+Take a Gamble,5.498,5.52,30,N/A,2004,1.6,2,8,60,60,19,N/A,N/A
+Phase 10 Flip!,5.498,5.7,30,N/A,2024,1.0,2,6,30,45,7,N/A,N/A
+Sixteen Samurai,5.498,5.34,32,N/A,2017,1.33,2,4,15,25,8,N/A,N/A
+Blockbusters,5.498,5.5,72,N/A,1982,1.29,3,6,30,30,10,N/A,N/A
+Pipolo,5.498,5.44,64,N/A,2005,1.0,2,4,10,10,5,N/A,N/A
+Split Decision,5.498,5.49,54,N/A,2010,1.0,2,8,20,20,12,N/A,N/A
+Equate,5.498,5.53,130,N/A,1996,1.92,2,4,120,120,8,Family,N/A
+Discover India,5.498,5.46,144,N/A,2010,1.73,2,5,30,45,8,Family,N/A
+Blasphemy,5.498,5.61,54,N/A,2007,2.5,2,4,90,90,N/A,N/A,N/A
+Space Invaders Dice!,5.498,5.59,145,N/A,2017,1.17,1,4,10,20,6,N/A,N/A
+Fish Fish,5.498,5.59,68,N/A,2013,1.2,2,8,20,20,8,N/A,N/A
+Abagio,5.498,5.46,53,N/A,2004,1.0,2,2,38,38,10,Abstract,N/A
+Port of Piraeus,5.498,5.68,59,N/A,2015,1.67,3,6,30,60,12,N/A,N/A
+Merlin Zinzin,5.498,5.35,51,N/A,2012,1.0,2,6,15,15,7,N/A,N/A
+Chip-Chip Hurra!,5.498,5.44,121,N/A,1999,1.1,2,4,20,30,6,Children's,N/A
+Monsters' Tower,5.498,5.5,90,N/A,2015,1.0,2,4,15,20,6,Children's,Family
+Over-Rated,5.498,5.44,77,9.99,2020,1.0,3,20,30,90,17,N/A,N/A
+Prickly Pile-Up,5.498,5.56,47,N/A,2008,1.0,2,2,10,10,5,Children's,N/A
+What the Cup!?,5.498,5.61,80,9.24,2023,1.0,3,6,10,20,12,N/A,N/A
+Tricksters,5.498,5.61,60,N/A,2016,2.25,1,8,10,20,10,N/A,N/A
+Torches & Pitchforks,5.498,5.52,234,N/A,2003,1.63,2,5,30,30,12,N/A,N/A
+Monopoly:  Builder,5.498,5.63,134,N/A,2021,1.2,2,4,60,120,8,N/A,N/A
+Day & Night,5.498,5.5,44,N/A,2021,1.0,3,5,20,30,8,N/A,N/A
+Collecto,5.498,5.37,38,N/A,2018,0.0,2,4,15,20,7,N/A,N/A
+Piekło na Pacyfiku,5.498,5.56,47,N/A,1994,2.5,2,2,30,30,N/A,Wargames,N/A
+The Origin of Expressions,5.498,5.45,86,N/A,2007,1.33,3,99,45,45,12,N/A,N/A
+Das Pferd von Troja,5.498,5.43,74,N/A,1993,1.71,2,4,40,40,10,N/A,N/A
+Sputnik,5.498,5.52,170,40.0,2005,1.28,2,6,15,15,7,Abstract,N/A
+Illusio,5.498,5.55,248,N/A,2008,1.67,2,6,30,30,8,Family,N/A
+Basketball Strategy,5.498,5.52,162,N/A,1974,2.12,2,2,30,30,12,Strategy,N/A
+"Kampfpanzer: Armored Combat, 1937-40",5.498,5.73,113,N/A,1973,2.7,2,2,120,120,12,Wargames,N/A
+Ice Lake,5.498,5.5,45,N/A,2002,1.36,2,4,20,20,9,Abstract,Children's
+Plague!,5.498,5.55,88,N/A,1991,1.22,2,4,120,120,10,N/A,N/A
+Orbit War,5.498,5.72,41,N/A,1983,2.57,2,2,60,60,12,Wargames,N/A
+Stamp,5.498,5.36,35,N/A,1992,1.5,3,6,30,30,8,N/A,N/A
+Pac-Man: The Card Game,5.498,5.54,93,9.95,2020,1.0,2,8,5,25,7,N/A,N/A
+Out of Context,5.498,5.47,60,19.99,1985,1.6,3,6,30,30,N/A,N/A,N/A
+"Piraten, Planken & Peseten",5.498,5.36,53,N/A,2004,1.5,2,4,45,45,8,N/A,N/A
+Finding Nemo,5.498,5.49,50,N/A,2003,1.0,2,4,20,20,5,Children's,N/A
+Die Seidenstraße,5.498,5.51,96,N/A,1998,1.78,2,7,60,60,10,N/A,N/A
+Elf: Snowball Showdown,5.498,5.39,47,9.98,2020,1.0,3,6,20,20,6,N/A,N/A
+Epäillyt,5.498,5.54,120,N/A,2009,1.67,2,4,60,60,9,N/A,N/A
+Justice League: Axis of Villains Strategy Game,5.498,5.55,247,N/A,2013,1.44,2,4,30,60,8,Family,N/A
+Saludos Amigos!,5.498,5.42,83,N/A,1996,1.89,4,7,30,70,14,N/A,N/A
+Xoom Cubes,5.498,5.3,40,N/A,2013,1.25,2,99,10,10,6,N/A,N/A
+CorteXXX Confidential,5.498,5.49,38,N/A,2018,1.0,2,6,10,20,18,N/A,N/A
+Quadtria,5.498,5.64,40,N/A,2000,1.5,2,2,30,30,8,Abstract,N/A
+ITZI,5.498,5.35,36,N/A,2021,2.0,2,8,10,10,8,N/A,N/A
+Tarawa: Bloody Betio,5.498,5.47,36,N/A,1992,2.33,1,1,360,360,12,Wargames,N/A
+Top Trumps Tournament,5.498,5.49,36,N/A,2009,1.0,2,6,30,30,6,N/A,N/A
+Taktvoll,5.498,5.35,33,N/A,1993,1.33,3,8,30,30,12,N/A,N/A
+Hochstapler,5.498,5.49,124,N/A,2009,1.24,3,7,20,20,8,Family,N/A
+Bluffing Billionaires,5.498,5.59,32,N/A,2018,1.0,3,6,10,25,8,N/A,N/A
+Star Reporter,5.498,6.18,37,N/A,1937,1.8,2,6,60,60,8,N/A,N/A
+Carrier Strike,5.498,5.55,31,N/A,1981,2.83,2,2,180,180,12,Wargames,N/A
+UNO: Angry Birds,5.498,5.37,30,N/A,2012,1.0,2,10,10,10,7,N/A,N/A
+Existenz: On the Ruins of Chaos,5.498,5.62,68,N/A,2011,2.75,2,4,90,90,12,N/A,N/A
+Mars Horizon: Blast Off!,5.498,5.7,32,N/A,2019,2.5,1,4,60,90,9,N/A,N/A
+Mall Madness,5.498,5.71,45,N/A,1988,1.0,2,2,20,20,7,N/A,N/A
+Imperator,5.498,5.52,102,N/A,1992,2.1,1,5,180,180,12,Strategy,Wargames
+Wiggling Cow,5.498,5.4,51,N/A,2009,1.0,1,4,15,15,6,Children's,N/A
+Animator vs Animation,5.498,8.79,53,N/A,2018,1.33,2,8,15,30,8,N/A,N/A
+Srebrna flota,5.498,5.48,54,N/A,1994,3.22,2,8,180,180,N/A,Wargames,N/A
+Tower Siege,5.498,5.37,43,N/A,2000,2.0,2,2,60,60,12,N/A,N/A
+Shuffle My Little Pony,5.498,5.52,40,N/A,2014,1.0,2,4,20,20,5,N/A,N/A
+"Pearl Harbor: The War Against Japan, 1941-1945",5.498,5.67,88,N/A,1977,3.2,2,7,180,180,12,Wargames,N/A
+Unpub: The Unpublished Card Game,5.498,5.49,91,N/A,2015,1.25,3,8,20,30,13,N/A,N/A

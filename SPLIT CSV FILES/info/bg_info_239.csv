@@ -1,0 +1,101 @@
+Title,Geek rating,Avg rating,Num of voters,Price,Year,Complexity,Min players,Max players,Min time,Max time,Min age,Type 1,Type 2
+Pope or Nope,5.502,5.8,30,N/A,2019,1.0,2,6,20,30,14,N/A,N/A
+Auf heißer Spur,5.502,5.77,31,N/A,2005,1.33,2,6,15,15,6,Children's,N/A
+Grab Bag,5.502,5.87,30,N/A,2002,1.0,2,4,10,10,4,N/A,N/A
+Wer war's?: Das Kartenspiel,5.502,5.58,30,N/A,2015,1.0,2,4,15,15,5,Children's,N/A
+High School Drama: Varsity Edition,5.502,5.79,34,N/A,2010,1.33,2,5,60,60,12,N/A,N/A
+Ascension at Firepeak,5.502,5.97,34,N/A,2001,1.33,2,5,45,45,10,N/A,N/A
+Grunwald: Walka 600-lecia,5.502,5.66,32,N/A,2010,1.5,2,2,30,30,12,N/A,N/A
+Bautzen 1945,5.502,5.85,33,N/A,2017,3.0,1,2,N/A,N/A,N/A,Wargames,N/A
+Hopp Galopp,5.502,5.56,33,N/A,2002,1.25,2,4,15,15,6,N/A,N/A
+Central Pacific,5.502,5.63,31,N/A,2006,2.0,2,4,45,45,10,N/A,N/A
+Double,5.502,5.68,37,N/A,1996,1.5,2,6,30,30,10,N/A,N/A
+Revolución,5.502,5.65,36,N/A,1999,1.2,3,6,45,45,10,N/A,N/A
+Ad-Lib Crossword Cubes,5.502,5.59,43,N/A,1963,1.0,2,6,20,20,8,N/A,N/A
+Empire (Third Edition),5.502,5.81,49,N/A,1981,4.33,2,2,180,180,14,Wargames,N/A
+Bejeweled,5.502,5.51,110,N/A,2013,1.5,2,4,15,30,8,N/A,N/A
+The Vampires,5.502,5.69,73,N/A,2021,1.0,2,6,15,15,6,N/A,N/A
+Sailor Moon CCG,5.502,5.77,62,N/A,2000,1.8,2,2,20,20,10,Customizable,N/A
+The Garden Game,5.502,6.03,66,N/A,1980,1.67,2,4,N/A,N/A,12,N/A,N/A
+Uxmal,5.502,5.6,115,N/A,2019,2.0,2,4,25,25,10,N/A,N/A
+Highlander: The Duel,5.502,5.66,58,19.99,2018,1.0,2,2,15,25,13,N/A,N/A
+Zocken,5.502,5.57,59,N/A,1998,1.14,2,8,15,50,10,N/A,N/A
+"Kipp, Kipp, Ahoi!",5.502,5.59,63,N/A,2004,1.0,2,4,15,15,5,Children's,N/A
+Robin Hood,5.502,5.63,70,N/A,1991,2.29,2,6,60,60,12,N/A,N/A
+Sushi Draft,5.502,5.58,256,N/A,2012,1.4,3,5,15,15,8,Family,N/A
+Zombie Tsunami,5.502,5.72,323,N/A,2018,1.42,3,6,25,35,10,N/A,N/A
+Seega,5.502,5.74,53,N/A,N/A,2.0,2,2,20,20,8,Abstract,N/A
+Alien,5.502,5.63,75,N/A,1979,1.0,2,4,30,30,7,N/A,N/A
+Query,5.502,6.95,30,N/A,2014,1.33,3,8,45,45,14,N/A,N/A
+Desert War: Tactical Warfare in North Africa,5.502,5.69,56,N/A,1973,3.13,2,4,120,180,12,Wargames,N/A
+Barrakuda,5.502,5.96,60,N/A,2022,1.0,2,4,20,20,8,N/A,N/A
+Dino Party,5.502,5.57,115,N/A,2018,1.0,2,6,15,20,6,N/A,N/A
+Activity My First,5.502,5.42,32,N/A,1998,1.0,3,16,20,60,4,Children's,N/A
+Scuba,5.502,5.53,127,N/A,2016,1.6,2,4,30,60,8,N/A,N/A
+The Best Friend Game,5.502,5.67,41,N/A,2021,1.0,4,12,N/A,N/A,14,N/A,N/A
+Peek-a-Boo!,5.502,5.69,39,N/A,2012,1.33,2,4,30,30,6,N/A,N/A
+"Cthulhu!!!: Hastur La Vista, Baby!",5.502,5.69,109,N/A,2014,1.4,2,6,75,75,15,N/A,N/A
+Scene It? Disney,5.502,5.6,533,55.25,2004,1.59,2,12,30,30,6,Family,N/A
+Demons: The Game of Evil Spirits,5.502,5.57,134,N/A,1979,2.0,1,4,60,120,12,Thematic,Wargames
+Scary Tales: Prince Charming vs. Hansel,5.502,5.74,61,N/A,2010,1.55,2,2,20,20,13,Thematic,N/A
+In10sity,5.502,5.61,59,N/A,2005,1.25,2,6,30,30,10,N/A,N/A
+Trivial Pursuit: Star Wars – Bite Size,5.502,5.49,57,N/A,2005,1.6,2,6,N/A,N/A,12,N/A,N/A
+Dungeon Heroes Manager,5.502,5.78,30,N/A,2016,2.67,2,6,60,90,10,N/A,N/A
+Claymania,5.502,5.56,36,N/A,1993,1.0,4,99,30,30,10,N/A,N/A
+The Amberden Affair,5.502,5.71,67,N/A,2013,1.75,3,6,45,45,12,N/A,N/A
+Pennant Race,5.502,5.63,100,N/A,1983,1.86,1,12,10,10,12,N/A,N/A
+Color Clash,5.502,5.73,35,N/A,2013,1.0,1,8,10,10,7,N/A,N/A
+Spline,5.502,5.77,36,N/A,2011,1.0,2,2,10,10,6,Abstract,N/A
+Wo war's?,5.502,5.66,99,N/A,2009,1.0,1,5,30,30,7,Children's,N/A
+Scorpion,5.502,5.64,37,N/A,1983,2.33,2,4,20,20,10,N/A,N/A
+Deflection,5.502,5.86,42,N/A,1981,1.33,2,2,20,20,7,Abstract,N/A
+Gone Viking!,5.502,5.59,35,N/A,2014,1.5,3,5,60,60,10,N/A,N/A
+Snit Smashing,5.502,5.58,142,N/A,1977,1.53,2,4,60,60,12,N/A,N/A
+Sapphiro,5.502,5.65,41,N/A,2016,1.0,2,4,N/A,N/A,6,Abstract,N/A
+Spank the Yeti,5.502,5.78,65,N/A,2016,1.0,2,10,30,30,17,N/A,N/A
+Lawklivya: Vengeance,5.502,6.43,43,N/A,2021,2.0,1,4,60,120,10,N/A,N/A
+Shanghai Rummy,5.502,5.74,38,N/A,1987,1.5,2,6,40,40,8,Abstract,N/A
+IQube,5.502,5.6,36,N/A,2006,1.0,1,4,30,30,N/A,Abstract,N/A
+Arnhem 1944,5.502,5.79,40,N/A,1996,3.43,2,6,240,240,N/A,Wargames,N/A
+CrackeD ICE,5.502,5.58,99,N/A,2002,1.18,2,5,1,1,N/A,N/A,N/A
+Columbus,5.502,5.58,69,N/A,1991,1.69,2,5,60,60,10,N/A,N/A
+Oudordodo,5.502,5.67,44,N/A,2008,1.0,2,4,10,10,4,Children's,N/A
+The Roaring 20's,5.502,5.68,46,N/A,1981,1.67,3,6,60,180,12,N/A,N/A
+Where's my Cupcake?,5.502,5.8,32,N/A,2012,1.0,2,4,10,10,3,N/A,N/A
+Sumo Ham Slam,5.502,5.51,247,N/A,2010,1.19,2,4,15,15,8,Children's,Family
+Poo Pocalypse,5.502,5.65,66,N/A,2020,1.33,2,4,15,30,7,N/A,N/A
+Contigo,5.502,5.68,77,N/A,1974,2.2,2,4,45,45,12,Abstract,N/A
+Ninjas Unleashed,5.502,6.88,34,N/A,2023,2.0,2,6,60,120,14,N/A,N/A
+Mathable,5.502,5.69,94,N/A,1987,2.0,2,4,45,60,9,Abstract,N/A
+Threepia,5.502,5.95,32,N/A,2021,1.0,1,6,15,60,6,N/A,N/A
+Fly Home!,5.502,5.77,30,19.35,2021,1.0,1,4,20,20,6,N/A,N/A
+BITS Mitbringspiel,5.502,5.59,40,N/A,2012,1.0,1,4,20,20,8,Abstract,N/A
+Ostfriesisches Schafe-Schubsen,5.502,5.58,45,N/A,2011,1.0,3,8,30,30,10,N/A,N/A
+Slap .45 Mini,5.502,5.66,49,N/A,2014,1.0,3,7,20,20,10,N/A,N/A
+Strange New Worlds,5.502,5.65,53,N/A,1978,2.67,2,6,90,90,N/A,N/A,N/A
+B Movies,5.502,5.68,74,N/A,2021,1.0,3,6,30,45,12,N/A,N/A
+Stockers!,5.502,5.47,53,N/A,1995,1.33,3,6,90,90,12,N/A,N/A
+Babuschka,5.502,5.62,67,N/A,1982,1.75,2,4,30,30,8,Abstract,N/A
+ARC,5.502,5.74,31,N/A,2012,2.5,2,4,15,15,13,N/A,N/A
+Hitman Holiday,5.502,5.57,31,N/A,2015,2.4,2,10,45,60,12,Strategy,Thematic
+Holiday,5.502,6.61,32,N/A,1981,1.0,2,6,30,30,8,N/A,N/A
+Transfer,5.502,5.68,51,N/A,1983,1.6,2,2,10,10,10,Abstract,N/A
+Hoarders,5.502,5.54,482,N/A,2019,1.07,3,6,10,15,8,N/A,N/A
+"Run Animals, Run!",5.502,5.77,67,N/A,2017,1.8,2,4,30,40,12,N/A,N/A
+Rock the Bock,5.502,5.7,68,N/A,2021,1.0,2,4,15,15,8,N/A,N/A
+Copié Collé,5.502,5.55,71,N/A,2011,1.0,3,6,20,20,8,N/A,N/A
+Sequence Stacks Card Game,5.502,5.51,40,N/A,2021,1.0,2,6,10,30,7,N/A,N/A
+Lap Dance,5.502,5.52,386,N/A,2014,1.88,2,4,45,45,18,Party,N/A
+The Goblin King is Angry,5.502,6.19,35,N/A,N/A,2.33,2,6,45,90,14,N/A,N/A
+Dodge City,5.502,5.6,39,N/A,1983,2.33,2,5,60,60,8,N/A,N/A
+Oss,5.502,5.7,94,N/A,2013,1.1,2,6,30,30,7,Party,N/A
+Toppling the Reich: The Battles for the Westwall,5.502,5.77,43,N/A,2006,3.2,2,2,120,900,12,Wargames,N/A
+Super 3,5.502,5.6,88,N/A,1978,1.0,2,2,20,20,7,Abstract,N/A
+Big League Baseball,5.502,5.66,54,N/A,1967,1.86,2,2,90,90,N/A,N/A,N/A
+Remmi Demmi,5.502,5.63,55,N/A,1999,1.0,4,9,30,30,8,N/A,N/A
+Gemischtes Doppel,5.502,5.54,125,N/A,2006,1.29,1,6,30,30,16,N/A,N/A
+Mömmen,5.501,5.64,48,N/A,2001,1.0,2,5,45,45,7,Children's,N/A
+Grand Tribunal,5.501,5.52,94,22.0,2006,2.53,3,5,60,90,12,N/A,N/A
+Number Quest,5.501,5.73,31,N/A,1997,1.33,2,4,50,50,7,N/A,N/A
+Duelo: Kung-fu,5.501,5.8,31,N/A,2016,1.2,2,4,5,15,8,N/A,N/A
+"Land Without End: The Barbarossa Campaign, 1941",5.501,5.79,33,N/A,2007,3.0,2,2,N/A,N/A,12,Wargames,N/A

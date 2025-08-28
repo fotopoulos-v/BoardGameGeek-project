@@ -1,0 +1,101 @@
+Title,Geek rating,Avg rating,Num of voters,Price,Year,Complexity,Min players,Max players,Min time,Max time,Min age,Type 1,Type 2
+4 Monkeys,5.512,5.7,152,N/A,2010,1.5,2,4,20,20,8,N/A,N/A
+Rummy 17,5.512,6.04,50,N/A,2016,1.0,2,6,20,20,10,Family,N/A
+Dollars Wanted,5.512,6.25,47,N/A,2022,1.5,2,5,15,15,7,N/A,N/A
+Escape Pods,5.512,6.26,51,N/A,2019,2.0,1,5,20,30,10,N/A,N/A
+Invasion Pearl Harbor,5.512,6.56,32,N/A,2010,2.33,1,2,120,120,12,Wargames,N/A
+The Transformation Game,5.512,6.44,46,N/A,1987,2.25,2,4,N/A,N/A,16,N/A,N/A
+Campus Galli,5.512,6.39,33,N/A,2024,2.5,2,4,60,60,10,N/A,N/A
+Kimaloé,5.512,6.12,44,N/A,2008,1.8,3,4,30,45,8,N/A,N/A
+In Your Head,5.512,6.25,39,N/A,2016,1.0,3,18,20,20,16,N/A,N/A
+Aber Hallo!,5.512,5.98,56,N/A,2000,1.83,3,4,N/A,N/A,10,N/A,N/A
+Wizard Thieves,5.512,8.25,57,N/A,2019,1.67,2,4,10,20,8,N/A,N/A
+Truth Be Told,5.512,5.78,111,N/A,2009,1.0,3,8,35,35,12,N/A,N/A
+Petteia,5.512,6.03,75,N/A,-100,2.17,2,2,20,20,5,Abstract,N/A
+Last Starfleet,5.512,6.3,39,N/A,2015,2.2,2,6,60,90,13,N/A,N/A
+Iron Man 2: Game of War,5.512,6.43,38,N/A,2010,1.0,2,2,30,30,6,N/A,N/A
+Warhammer English Civil War,5.512,6.35,40,N/A,2002,3.5,2,6,120,120,12,Wargames,N/A
+Tortuga,5.512,6.09,52,N/A,2020,1.5,2,6,20,20,8,N/A,N/A
+Cluedo: Passport to Murder,5.512,5.9,107,N/A,2000,1.73,2,6,30,30,8,N/A,N/A
+Over the Top! Lemberg 1914 & Verdun 1916,5.512,6.16,52,N/A,1999,2.67,2,2,120,120,12,Wargames,N/A
+The Siege of Minas Tirith,5.512,6.59,39,N/A,1975,3.17,2,2,120,120,12,Wargames,N/A
+Le Gang des Traction-Avant,5.512,6.35,39,N/A,1984,1.5,4,6,90,90,12,N/A,N/A
+Unikato,5.512,6.01,75,N/A,2009,1.6,2,4,20,20,8,Abstract,N/A
+Trip 1907: Forbidden Mine,5.512,6.68,36,N/A,2020,3.0,1,1,120,120,12,N/A,N/A
+Honey Wars,5.512,6.07,74,N/A,2015,1.17,2,4,30,45,8,N/A,N/A
+Shadowrun Duels,5.512,5.74,154,N/A,2003,2.27,2,2,30,30,8,Customizable,N/A
+Vignobles,5.512,6.33,42,N/A,2017,2.0,2,4,30,45,13,N/A,N/A
+Bug Hunt,5.512,6.33,41,N/A,2021,1.0,2,4,15,15,5,N/A,N/A
+Big Cityz,5.512,6.27,35,N/A,2017,1.0,2,6,30,30,12,N/A,N/A
+Trivial Pursuit: Team,5.512,5.71,163,24.24,2009,1.5,2,6,45,45,12,N/A,N/A
+Medieval Mastery,5.512,5.77,178,N/A,2011,2.0,2,6,45,45,10,Family,N/A
+Dreamember,5.512,6.27,44,N/A,2021,2.0,2,6,10,30,10,N/A,N/A
+Robin Hood: Hero of the People,5.512,6.23,44,N/A,2019,1.0,1,1,15,30,12,N/A,N/A
+History of War,5.512,6.06,102,N/A,2003,2.53,2,6,60,60,14,Wargames,N/A
+Chronos Conquest,5.512,6.05,71,N/A,2014,1.67,3,6,5,5,N/A,N/A,N/A
+Wanted: Rich or Dead,5.512,5.92,90,N/A,2017,2.0,3,5,10,30,14,N/A,N/A
+Even Steven's Odd,5.512,6.2,62,N/A,2013,1.0,2,4,20,20,8,N/A,N/A
+Bezzerwizzer Familieudgave,5.512,5.88,94,N/A,2007,1.75,2,4,45,45,N/A,N/A,N/A
+Wooly Whammoth,5.512,5.92,79,N/A,2019,1.67,2,4,20,30,8,N/A,N/A
+Rage (Second Edition),5.512,5.94,67,N/A,1998,2.14,2,5,45,45,12,Customizable,N/A
+Four Taverns,5.512,5.79,136,29.99,2012,1.31,2,4,35,35,12,N/A,N/A
+Indochina War,5.512,6.66,30,N/A,2001,3.5,2,2,240,240,12,Wargames,N/A
+When Dragons Fight,5.512,6.5,41,N/A,2001,3.17,2,2,180,180,12,Wargames,N/A
+God Hates Charades,5.512,6.31,73,N/A,2014,2.25,3,14,30,30,18,N/A,N/A
+Штука,5.512,6.39,41,N/A,2017,1.0,4,7,N/A,N/A,12,N/A,N/A
+Gigi Gnomo,5.512,6.14,49,N/A,2016,1.0,2,4,30,30,5,N/A,N/A
+Four Corner Detective,5.512,6.43,32,N/A,2024,0.0,1,5,15,15,6,N/A,N/A
+Lemur Tails,5.512,6.04,66,N/A,2022,1.14,2,2,20,20,8,N/A,N/A
+Asalto al Banco de Inglaterra,5.512,6.3,53,N/A,1982,1.8,2,6,120,120,8,N/A,N/A
+Blaze,5.512,5.74,227,N/A,2021,2.0,3,5,20,20,10,N/A,N/A
+Deduction,5.512,6.23,40,N/A,1976,1.14,2,2,30,30,8,N/A,N/A
+Red Star Falling,5.512,6.44,36,N/A,1981,2.0,2,2,120,120,12,Wargames,N/A
+Ice Hike: Beware of the Bears,5.512,6.39,39,N/A,2024,1.0,2,5,45,60,8,N/A,N/A
+ShowBiz Shuffle,5.512,5.91,72,N/A,2002,1.6,2,5,30,30,12,N/A,N/A
+Trüffel-Schnüffel,5.512,6.02,72,N/A,2006,1.14,2,4,10,15,5,Children's,N/A
+Cassino 44,5.512,6.54,30,N/A,2012,2.38,2,2,300,300,N/A,Wargames,N/A
+Peng!,5.512,6.07,48,N/A,2014,1.25,2,4,15,15,5,N/A,N/A
+Pavlov's Dogs,5.512,6.39,44,23.16,2020,1.5,2,8,20,45,8,N/A,N/A
+Korea '95,5.512,6.39,35,N/A,1993,3.0,2,2,N/A,N/A,12,Wargames,N/A
+Candy Match,5.512,5.85,79,N/A,2017,1.0,2,6,10,20,8,Family,N/A
+Central Market,5.512,5.86,95,N/A,2012,2.25,3,5,30,30,8,N/A,N/A
+Master Sweets: Second Edition,5.512,6.37,40,N/A,2019,1.0,1,5,10,35,8,N/A,N/A
+Feuding Foodies,5.512,8.67,49,N/A,2021,2.33,4,8,30,75,8,N/A,N/A
+Two Stacks,5.512,6.43,39,N/A,2018,1.5,1,4,10,20,8,N/A,N/A
+The Big Pig Game,5.512,6.65,31,N/A,2023,2.0,1,4,40,60,10,N/A,N/A
+Lava Land,5.512,6.62,31,N/A,2022,1.0,3,5,30,30,8,N/A,N/A
+Long Live The Revolution!,5.512,5.91,78,N/A,2010,1.14,3,5,10,10,8,Family,N/A
+Upkeep,5.512,6.42,42,N/A,2020,2.67,1,4,30,60,6,N/A,N/A
+Scum,5.512,5.88,100,N/A,2005,1.14,4,8,5,5,N/A,N/A,N/A
+Fireside Football,5.512,5.95,64,N/A,1996,1.67,3,6,240,240,12,N/A,N/A
+The Lost Worlds of Josh Kirby,5.512,6.84,36,N/A,2020,2.5,2,5,20,45,12,N/A,N/A
+Chains to Champions,5.512,6.72,32,N/A,2013,2.5,2,6,40,40,14,N/A,N/A
+Freeze Factory,5.512,6.44,33,N/A,2021,1.0,2,4,25,35,6,N/A,N/A
+An Loc: 1972 – The North Vietnamese Push Towards Saigon,5.512,6.59,34,N/A,2008,2.25,2,2,120,120,N/A,Wargames,N/A
+Pitagoras,5.512,6.4,35,N/A,2023,1.0,2,6,20,20,8,N/A,N/A
+Nutty Business,5.512,6.02,65,N/A,2023,1.25,2,5,10,20,10,N/A,N/A
+Buzz It!,5.512,5.65,362,N/A,2010,1.11,3,15,30,30,7,Party,N/A
+Valkenburg Castle,5.512,6.0,102,N/A,1980,2.07,2,2,120,120,10,Wargames,N/A
+New York,5.512,5.98,59,N/A,1995,2.17,2,5,90,90,12,N/A,N/A
+Five-up,5.512,6.16,45,N/A,1959,1.5,2,4,30,30,10,Abstract,N/A
+Hell Village,5.512,6.36,31,N/A,2018,2.0,2,5,40,100,10,N/A,N/A
+Lumberjack,5.512,5.7,167,N/A,2002,1.47,2,5,20,20,8,Family,N/A
+"My Very First Games: Go, Go, Little Penguin!",5.512,6.05,62,N/A,2016,1.17,2,3,5,10,2,Children's,N/A
+Rainbow 7,5.512,6.26,48,N/A,2022,1.0,2,5,20,20,7,N/A,N/A
+Kakuzu,5.512,6.17,66,N/A,2010,1.0,1,4,20,20,8,Abstract,N/A
+Swish Jr.,5.512,6.2,44,N/A,2013,1.0,2,6,15,15,5,N/A,N/A
+Utter Nonsense: Naughty Edition,5.512,6.08,76,N/A,2017,1.0,4,20,30,30,18,N/A,N/A
+Of Gods and Mortals: Mythological Wargame Rules,5.512,6.83,30,N/A,2013,2.0,2,2,N/A,N/A,N/A,N/A,N/A
+The Battle of Roark's Drift,5.512,6.84,34,N/A,1978,2.17,2,2,240,240,12,Wargames,N/A
+None Shall Pass!,5.512,5.81,153,N/A,2022,1.67,2,4,40,60,12,N/A,N/A
+"First Blood: Second Marne, 15 July 1918",5.512,5.96,58,N/A,2008,2.0,2,2,N/A,N/A,N/A,Wargames,N/A
+Circles,5.512,6.18,49,N/A,2024,1.0,2,5,30,30,7,N/A,N/A
+Cincinnati,5.512,5.9,108,N/A,2006,1.29,3,6,45,45,10,N/A,N/A
+Badass Zombie Killers,5.512,6.43,37,N/A,2013,1.0,2,6,15,15,N/A,N/A,N/A
+Merchant of Goldfish,5.512,6.33,32,N/A,2024,0.0,2,6,20,20,8,N/A,N/A
+Les Misérables: Eve of Rebellion,5.512,6.1,55,N/A,2016,2.0,2,4,30,45,12,N/A,N/A
+Love Formula,5.512,6.08,70,N/A,2018,2.0,2,4,15,30,12,N/A,N/A
+Divorce! The Game,5.512,6.49,46,N/A,2015,1.33,2,2,20,20,17,Party,N/A
+Sync Up!,5.512,6.56,33,N/A,2009,1.0,3,6,N/A,N/A,13,N/A,N/A
+Nab-It!,5.512,5.7,158,11.99,2010,1.93,2,4,30,45,8,Family,N/A
+Trivial Pursuit: Star Trek 50th Anniversary Edition,5.512,6.27,39,N/A,2016,1.0,2,N/A,N/A,N/A,12,N/A,N/A

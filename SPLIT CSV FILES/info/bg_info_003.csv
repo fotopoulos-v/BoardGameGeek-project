@@ -1,0 +1,101 @@
+Title,Geek rating,Avg rating,Num of voters,Price,Year,Complexity,Min players,Max players,Min time,Max time,Min age,Type 1,Type 2
+Earth,7.358,7.64,18928,39.95,2023,2.9,1,5,45,90,13,Strategy,N/A
+Star Wars: Outer Rim,7.356,7.74,14171,80.0,2019,2.58,1,4,120,180,14,Thematic,N/A
+Welcome to the Moon,7.354,7.89,8398,44.99,2021,2.45,1,6,25,30,10,Family,Thematic
+Dune,7.353,7.93,10032,92.43,2019,3.98,2,6,120,180,14,Strategy,Thematic
+Great Western Trail: Argentina,7.351,8.25,4853,53.22,2022,3.92,1,4,75,150,12,Strategy,N/A
+This War of Mine: The Board Game,7.347,7.77,14077,65.88,2017,3.33,1,6,45,120,18,Thematic,N/A
+Chaos in the Old World,7.346,7.66,15982,N/A,2009,3.2,3,4,60,120,13,Strategy,Thematic
+War of the Ring,7.344,7.78,10886,94.58,2004,3.85,2,4,120,120,12,Thematic,Wargames
+Meadow,7.336,7.71,12651,43.99,2021,2.25,1,4,60,90,10,Family,Strategy
+Memoir '44,7.335,7.53,31181,N/A,2004,2.27,2,8,30,60,8,Wargames,N/A
+7 Wonders (Second Edition),7.335,7.83,10285,46.05,2020,2.3,3,7,30,30,10,Family,Strategy
+The Red Cathedral,7.332,7.67,14392,34.95,2020,2.82,1,4,80,80,10,Strategy,N/A
+Descent: Journeys in the Dark (Second Edition),7.33,7.61,25763,N/A,2012,3.21,1,5,120,120,14,Thematic,N/A
+Sagrada,7.328,7.47,45258,35.9,2017,1.92,1,4,30,45,14,Abstract,Family
+Modern Art,7.324,7.52,24284,31.95,1992,2.29,3,5,45,45,10,Strategy,N/A
+Sekigahara: The Unification of Japan,7.322,7.99,6421,72.44,2011,2.8,2,2,180,180,14,Wargames,N/A
+Cosmic Encounter,7.32,7.51,34210,66.59,2008,2.58,3,5,60,120,12,Strategy,Thematic
+Space Base,7.32,7.54,21757,44.54,2018,2.13,2,5,60,60,14,Family,N/A
+Castles of Mad King Ludwig,7.319,7.51,26902,55.03,2014,2.65,1,4,90,90,13,Strategy,N/A
+Star Wars: The Deckbuilding Game,7.316,7.84,9316,30.39,2023,2.04,2,2,30,90,12,Family,Strategy
+John Company: Second Edition,7.314,8.28,4738,N/A,2022,4.46,1,6,90,240,13,Strategy,Thematic
+The Resistance: Avalon,7.312,7.5,35442,24.8,2012,1.74,5,10,30,30,13,Party,N/A
+Paleo,7.312,7.67,14695,51.41,2020,2.65,2,4,45,60,10,Strategy,Thematic
+Go,7.31,7.66,17939,28.7,-2200,3.91,2,2,30,180,8,Abstract,N/A
+Railways of the World,7.309,7.67,12487,149.99,2005,3.02,2,6,120,120,10,Strategy,N/A
+A Game of Thrones: The Board Game (Second Edition),7.309,7.53,36064,51.91,2011,3.73,3,6,120,240,14,Strategy,N/A
+Azul: Summer Pavilion,7.309,7.58,18224,31.99,2019,2.07,2,4,30,45,8,Abstract,Family
+Horrified,7.308,7.61,18680,39.99,2019,2.02,1,5,60,60,10,Family,Thematic
+Clash of Cultures: Monumental Edition,7.306,8.28,4652,139.95,2021,3.71,2,4,180,240,14,Strategy,N/A
+Ticket to Ride: Nordic Countries,7.305,7.62,14736,41.99,2007,1.97,2,3,30,60,8,Family,N/A
+Ora et Labora,7.302,7.68,11372,53.89,2011,3.89,1,4,60,180,13,Strategy,N/A
+Return to Dark Tower,7.3,8.22,5312,184.97,2022,2.65,1,4,100,120,10,Thematic,N/A
+Carcassonne,7.296,7.41,134636,30.99,2000,1.89,2,5,30,45,7,Family,N/A
+Captain Sonar,7.294,7.51,22818,N/A,2016,2.2,2,8,45,60,14,Party,Thematic
+Splendor,7.293,7.42,86289,31.99,2014,1.78,2,4,30,30,10,Family,N/A
+Commands & Colors: Ancients,7.29,7.78,9023,N/A,2006,2.69,2,2,60,60,12,Wargames,N/A
+Suburbia,7.29,7.46,26040,61.73,2012,2.76,1,4,60,90,8,Strategy,N/A
+Village,7.289,7.49,24029,83.07,2011,3.06,2,4,60,90,12,Strategy,N/A
+Ankh: Gods of Egypt,7.284,7.75,10838,79.99,2021,3.12,2,5,90,90,14,Strategy,N/A
+Aeon's End: Legacy,7.284,8.06,5611,86.26,2019,2.84,1,4,45,90,14,Strategy,N/A
+Dead of Winter: A Crossroads Game,7.284,7.45,47988,N/A,2014,3.01,2,5,60,120,13,Thematic,N/A
+Tichu,7.282,7.58,16362,N/A,1991,2.34,4,4,60,60,10,Strategy,N/A
+Andromeda's Edge,7.28,8.34,4350,364.99,2024,3.72,2,4,80,160,14,Strategy,N/A
+The Taverns of Tiefenthal,7.276,7.57,16077,69.99,2019,2.68,2,4,60,60,12,Strategy,N/A
+Nidavellir,7.275,7.57,15264,37.42,2020,2.11,2,5,45,45,10,Family,Strategy
+Star Realms: Colony Wars,7.268,7.79,8596,17.95,2015,1.9,2,2,20,20,12,Strategy,N/A
+YINSH,7.267,7.71,9522,39.93,2003,2.64,2,2,30,60,9,Abstract,N/A
+Ticket to Ride,7.266,7.39,95159,46.15,2004,1.82,2,5,30,60,8,Family,N/A
+Paths of Glory,7.266,8.08,5493,N/A,1999,3.85,2,2,480,480,14,Wargames,N/A
+Coimbra,7.265,7.61,12598,44.54,2018,3.25,2,4,60,90,14,Strategy,N/A
+Under Falling Skies,7.263,7.62,13023,29.99,2020,2.4,1,1,20,40,12,Strategy,N/A
+KLASK,7.261,7.63,11574,69.99,2014,1.05,2,2,10,10,8,Family,Party
+Calico,7.259,7.5,21832,39.99,2020,2.19,1,4,30,45,10,Abstract,Family
+My City,7.257,7.6,12489,24.49,2020,1.98,2,4,30,30,10,Family,Strategy
+Secret Hitler,7.257,7.5,32334,45.0,2016,1.74,5,10,45,45,13,Party,N/A
+Nations,7.257,7.6,12520,N/A,2013,3.54,1,5,40,200,14,Strategy,N/A
+Near and Far,7.253,7.66,10924,N/A,2017,2.89,2,4,90,120,13,Thematic,N/A
+Camel Up (Second Edition),7.252,7.56,15977,31.99,2018,1.5,3,8,30,45,8,Family,Party
+Cyclades,7.252,7.49,22361,N/A,2009,2.82,2,5,60,90,13,Strategy,N/A
+Combat Commander: Europe,7.248,7.96,6034,N/A,2006,3.26,2,2,60,180,12,Wargames,N/A
+Dinosaur Island,7.245,7.54,16801,51.42,2017,3.04,1,4,90,120,8,Strategy,N/A
+Fantasy Realms,7.244,7.51,17232,21.25,2017,1.81,2,6,20,20,14,Family,N/A
+Codenames: Duet,7.242,7.42,25291,24.95,2017,1.35,2,2,15,30,11,Family,N/A
+La Granja,7.242,7.6,11642,N/A,2014,3.57,1,4,90,120,12,Strategy,N/A
+Thunder Road: Vendetta,7.24,7.94,6003,349.79,2023,1.95,2,4,45,75,10,Family,Thematic
+Century: Golem Edition,7.238,7.58,13476,38.98,2017,1.71,2,5,30,45,8,Family,Strategy
+Legendary: A Marvel Deck Building Game,7.235,7.52,23089,59.91,2012,2.43,1,5,30,60,14,Thematic,N/A
+Hanamikoji,7.233,7.46,20254,N/A,2013,1.68,2,2,15,15,10,Family,N/A
+Deception: Murder in Hong Kong,7.228,7.43,24223,44.99,2014,1.58,4,12,20,20,14,Party,N/A
+Faraway,7.226,7.56,13294,24.99,2023,1.9,2,6,15,30,10,Family,N/A
+"Unmatched: Battle of Legends, Volume One",7.225,7.7,10303,N/A,2019,1.95,2,4,20,40,9,Strategy,N/A
+MicroMacro: Crime City,7.225,7.47,18266,35.57,2020,1.1,1,4,15,45,12,Family,N/A
+Sushi Go Party!,7.225,7.38,38225,21.99,2016,1.31,2,8,20,20,8,Family,N/A
+Zombicide: Black Plague,7.224,7.6,16974,95.99,2015,2.48,1,6,60,180,14,Thematic,N/A
+Western Legends,7.223,7.61,12347,N/A,2018,2.85,2,6,60,90,14,Thematic,N/A
+Samurai,7.223,7.48,16795,N/A,1998,2.44,2,4,30,60,10,Strategy,N/A
+Flamme Rouge,7.221,7.48,19156,69.99,2016,1.7,2,4,30,45,8,Family,N/A
+Bomb Busters,7.22,8.04,5015,N/A,2024,1.98,2,5,30,30,10,Family,N/A
+Isle of Skye: From Chieftain to King,7.22,7.39,26566,79.97,2015,2.25,2,5,30,50,8,Family,Strategy
+Vindication,7.219,7.78,7947,124.45,2018,3.09,2,5,45,150,14,Strategy,N/A
+Glory to Rome,7.218,7.49,14684,N/A,2005,2.93,2,5,60,60,12,Strategy,N/A
+Roll Player,7.217,7.43,21794,61.91,2016,2.42,1,4,60,90,10,Strategy,N/A
+The Princes of Florence,7.216,7.5,15858,49.87,2000,3.24,1,5,75,100,12,Strategy,N/A
+Hallertau,7.216,7.84,6555,99.99,2020,3.29,1,4,50,140,12,Strategy,N/A
+Tapestry,7.21,7.44,21959,97.19,2019,2.96,1,5,90,120,12,Strategy,N/A
+So Clover!,7.21,7.59,10518,24.99,2021,1.13,3,6,30,30,10,Party,N/A
+Sea Salt & Paper,7.209,7.5,17243,11.49,2022,1.48,2,4,30,45,8,Family,N/A
+Pulsar 2849,7.208,7.65,9464,59.99,2017,3.33,2,4,60,90,14,Strategy,N/A
+Hero Realms,7.207,7.5,19240,17.95,2016,1.85,2,4,20,20,12,Strategy,N/A
+Kanban: Driver's Edition,7.206,7.78,7039,N/A,2014,4.35,2,4,90,120,12,Strategy,N/A
+Santorini,7.204,7.34,40842,N/A,2016,1.72,2,4,20,20,8,Abstract,N/A
+Distilled,7.204,7.78,7524,67.47,2023,3.02,1,5,30,150,14,Strategy,N/A
+Goa: A New Expedition,7.203,7.55,11663,N/A,2004,3.37,2,4,90,90,12,Strategy,N/A
+Anno 1800: The Board Game,7.202,7.7,8359,N/A,2020,3.12,1,4,120,120,12,Strategy,N/A
+1830: Railways & Robber Barons,7.198,7.87,5872,58.77,1986,4.17,2,7,180,360,14,Strategy,N/A
+Kemet: Blood and Sand,7.198,7.94,5645,N/A,2021,3.2,2,5,90,180,13,Strategy,N/A
+Monikers,7.197,7.77,7157,24.99,2015,1.09,4,16,30,60,17,Party,N/A
+Tiletum,7.196,7.87,6154,52.49,2022,3.4,1,4,60,100,14,Strategy,N/A
+Shogun,7.195,7.51,14464,N/A,2006,3.37,3,5,90,120,12,Strategy,N/A
+Bitoku,7.194,7.79,7252,49.95,2021,3.76,1,4,120,120,12,Strategy,N/A

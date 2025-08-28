@@ -1,0 +1,101 @@
+Title,Geek rating,Avg rating,Num of voters,Price,Year,Complexity,Min players,Max players,Min time,Max time,Min age,Type 1,Type 2
+Las Vegan,5.506,5.64,207,N/A,2022,1.38,2,5,30,30,10,N/A,N/A
+NewSpeak,5.506,5.71,56,N/A,2021,1.67,3,6,30,60,14,N/A,N/A
+Bearly Working,5.506,6.05,33,N/A,2017,1.33,2,4,20,35,10,N/A,N/A
+Troia,5.506,5.6,159,N/A,2000,1.88,2,4,60,60,9,N/A,N/A
+RPGQuest,5.506,8.44,51,N/A,2005,2.0,3,7,30,30,8,Children's,N/A
+Trool Park,5.506,5.85,104,N/A,2018,2.14,2,4,30,45,10,N/A,N/A
+Admirals,5.506,5.65,210,N/A,1972,1.7,2,2,30,30,7,N/A,N/A
+APBA Soccer,5.506,6.28,36,N/A,2011,2.33,1,2,60,60,8,N/A,N/A
+Panik Pilze,5.506,5.98,30,N/A,2015,0.0,2,4,15,15,7,N/A,N/A
+Evade,5.506,5.68,77,N/A,1971,1.45,2,2,10,10,12,Abstract,N/A
+Nimm's Leich!,5.506,5.85,48,N/A,1997,1.0,3,6,20,20,10,N/A,N/A
+Mops Royal,5.506,6.12,34,N/A,2014,1.0,2,4,30,30,8,N/A,N/A
+MiniMatch,5.506,5.97,33,N/A,2009,1.0,2,5,10,10,3,N/A,N/A
+Royal Secrets,5.506,6.04,34,N/A,2021,1.0,3,5,35,60,10,N/A,N/A
+Adventure Time: Adventures in the Land of Ooo,5.506,6.13,35,N/A,2015,1.5,1,5,60,90,8,N/A,N/A
+Blindside,5.506,5.76,37,N/A,2011,2.5,2,2,25,25,10,Abstract,N/A
+A Fistful of Daisies,5.506,5.95,38,N/A,2020,1.0,2,4,20,20,6,N/A,N/A
+Atlantic Robot League,5.506,6.16,41,28.95,2022,1.5,2,5,20,20,12,N/A,N/A
+Suspend Junior,5.506,5.79,48,15.59,2014,1.0,1,4,15,15,4,N/A,N/A
+The Hundred Years War,5.506,5.83,56,N/A,1995,3.25,2,2,180,180,12,Wargames,N/A
+Mafia,5.506,5.9,46,N/A,1981,1.75,3,5,60,120,13,Strategy,N/A
+Ding!,5.506,6.05,48,N/A,2024,1.0,2,7,10,10,8,N/A,N/A
+O Que O Quê,5.506,6.16,31,N/A,2023,1.0,2,5,10,10,6,N/A,N/A
+Star Wars: Timeline Twist,5.506,5.82,44,N/A,2023,1.0,2,6,20,30,8,N/A,N/A
+Taxi!,5.506,5.96,48,N/A,N/A,1.67,2,6,120,120,8,N/A,N/A
+There Must Be a Victory,5.506,5.98,48,N/A,2009,2.4,2,2,360,360,N/A,Wargames,N/A
+America's Main Street,5.506,5.86,39,N/A,2022,1.0,1,5,10,20,4,N/A,N/A
+The Solomons Campaign (Second Edition),5.506,6.09,31,N/A,2008,3.0,2,2,N/A,N/A,N/A,Wargames,N/A
+Boom Boom,5.506,5.78,48,N/A,2013,1.0,2,4,10,10,5,N/A,N/A
+Cloak & Dagger,5.506,6.04,49,N/A,1984,1.6,2,4,30,60,8,N/A,N/A
+Arktia,5.506,5.6,140,N/A,2008,2.31,2,4,15,15,12,Abstract,N/A
+Land of Clans,5.506,6.07,41,N/A,2020,1.67,2,4,30,45,8,N/A,N/A
+Space Opera,5.506,6.21,75,N/A,2017,2.33,2,4,30,90,14,N/A,N/A
+Crazier Eights,5.506,6.34,45,N/A,2014,1.0,2,4,10,10,10,N/A,N/A
+Orcwars,5.506,5.79,58,N/A,1988,2.11,2,4,120,150,12,Wargames,N/A
+Numeri,5.506,5.78,56,N/A,1973,1.4,2,4,30,30,7,N/A,N/A
+Booze Barons,5.506,5.65,83,N/A,2016,1.0,3,9,25,45,12,N/A,N/A
+Coal Country,5.506,5.85,46,N/A,2017,3.0,2,4,45,90,14,N/A,N/A
+Dracula: El Vampiro del Castillo,5.506,6.08,49,N/A,1986,1.75,2,4,30,30,N/A,N/A,N/A
+Grenadier: Tactical Warfare 1680-1850,5.506,5.8,63,N/A,1972,2.33,2,2,120,240,12,Wargames,N/A
+Stones River: Turning Point in Tennessee,5.506,6.03,30,N/A,2010,2.67,1,2,60,60,12,Wargames,N/A
+Seven Days Battles,5.506,5.77,62,N/A,1993,2.08,2,2,120,120,12,Wargames,N/A
+3 Minute Crazy Café,5.506,5.67,88,N/A,2023,1.0,2,6,9,9,7,N/A,N/A
+High Voltage,5.506,6.05,66,N/A,2006,2.0,2,4,45,45,10,N/A,N/A
+Enemy Agent,5.506,5.99,31,N/A,1975,2.0,2,2,60,60,9,N/A,N/A
+Trivial Pursuit: DVD – Disney Edition,5.506,5.74,99,N/A,2005,1.33,2,4,60,60,12,N/A,N/A
+Galactic Starfire,5.506,5.77,73,N/A,2000,4.2,2,2,120,120,12,Wargames,N/A
+Junta,5.506,5.87,37,N/A,1975,1.0,2,2,30,30,8,Abstract,N/A
+A Fistful of Dinero,5.506,5.8,71,6.49,2015,2.0,3,6,30,45,10,N/A,N/A
+Buffalo,5.506,5.89,74,N/A,2012,1.6,2,8,20,20,14,N/A,N/A
+Playbook Football,5.506,6.09,31,N/A,2008,1.38,2,2,45,45,N/A,N/A,N/A
+Fatal Rendez Vous,5.506,5.88,50,N/A,2006,2.0,5,20,30,30,8,N/A,N/A
+Pocket Dragon,5.506,5.68,89,N/A,2018,1.33,2,2,5,7,8,N/A,N/A
+Card Game: The Card Game,5.506,6.66,32,N/A,2020,2.0,2,5,15,30,14,N/A,N/A
+Mausgetrixt,5.506,5.98,44,N/A,2012,1.0,2,4,20,20,5,N/A,N/A
+Robin Hood,5.506,5.68,91,N/A,1990,1.4,2,6,60,60,8,N/A,N/A
+Hans im Glück,5.506,6.02,31,N/A,2019,1.0,2,4,5,10,6,N/A,N/A
+Chinese Civil War: 1946-1949,5.506,6.04,55,N/A,1979,2.86,1,2,240,360,12,Wargames,N/A
+Rollers,5.506,5.78,118,N/A,2016,1.0,2,5,15,30,8,N/A,N/A
+Black Monday,5.506,5.7,133,N/A,1988,2.06,2,6,45,45,10,N/A,N/A
+Memento,5.506,5.81,45,N/A,2013,2.0,2,5,30,30,10,N/A,N/A
+No Respect: Rodney Dangerfield's Game,5.506,5.75,48,N/A,1985,1.25,2,4,30,30,8,N/A,N/A
+Dracarys Dice,5.506,5.7,138,N/A,2018,1.0,2,5,10,15,10,N/A,N/A
+Mag-O-Mag,5.506,5.93,91,14.95,2017,1.0,2,4,30,30,8,N/A,N/A
+Hear 'N Seek,5.506,5.87,34,N/A,2004,1.0,2,6,20,20,5,Children's,N/A
+Flea Market,5.506,5.63,121,29.44,2015,1.0,3,5,20,40,8,N/A,N/A
+Color Code,5.506,5.83,56,N/A,2021,1.0,2,6,30,30,10,N/A,N/A
+Black Hole,5.506,5.66,108,N/A,1978,1.7,2,2,30,30,10,Wargames,N/A
+Role Quest,5.506,8.09,39,N/A,2018,1.44,3,6,20,30,14,N/A,N/A
+Big Top,5.506,5.65,108,N/A,2003,1.5,3,6,60,60,6,N/A,N/A
+Entropia: The Game,5.506,6.12,49,N/A,2019,1.5,1,5,15,30,10,N/A,N/A
+GEMJI,5.506,8.62,30,N/A,2020,2.67,1,18,1,120,4,Customizable,N/A
+BOLD,5.506,5.73,110,N/A,2016,1.0,2,4,10,30,7,N/A,N/A
+Weapons & Warriors: Power Catapult Set,5.506,5.84,52,N/A,1994,1.33,2,2,20,20,7,N/A,N/A
+Tetris,5.506,5.71,100,N/A,1989,1.56,2,2,30,30,7,Abstract,N/A
+STAKD Elite,5.506,5.7,63,N/A,2024,1.0,1,8,N/A,N/A,7,Abstract,N/A
+Liski: Ojojanie,5.506,5.79,85,N/A,2019,2.33,1,5,25,25,10,N/A,N/A
+Clumsy Witch,5.506,5.78,49,N/A,2011,1.25,2,4,15,15,5,N/A,N/A
+Doomsday Bots,5.506,6.21,34,N/A,2019,1.5,2,4,30,60,10,N/A,N/A
+Clue Mysteries,5.506,5.64,394,N/A,2005,1.49,2,6,60,60,8,Family,N/A
+Unnamed Farm Organisms,5.506,6.05,33,N/A,2018,1.0,2,7,15,20,6,N/A,N/A
+Daimyo Senso,5.506,7.9,36,N/A,2021,3.0,1,8,40,120,12,Wargames,N/A
+Pom Pom,5.506,6.06,37,N/A,2011,1.2,2,6,10,10,6,N/A,N/A
+Timberman,5.506,6.14,39,N/A,2017,1.0,2,6,20,45,6,N/A,N/A
+Möbi,5.506,5.76,71,N/A,2015,1.25,1,6,10,10,7,N/A,N/A
+Desert Duel: First Alamein,5.506,5.78,36,N/A,2008,1.92,2,2,180,180,N/A,Wargames,N/A
+The Offensive Band Name Generator,5.506,6.11,33,N/A,2014,1.0,3,20,30,30,17,N/A,N/A
+Droids,5.506,5.66,88,N/A,1991,2.43,1,4,60,60,12,N/A,N/A
+Boarding Party,5.506,5.91,62,N/A,1982,1.67,1,2,60,60,12,Wargames,N/A
+Buggo,5.506,5.74,58,N/A,2000,1.13,2,8,10,10,5,Children's,N/A
+Match of the Season,5.506,5.91,125,N/A,2008,2.33,2,4,180,180,N/A,N/A,N/A
+James Clavell's Shogun,5.506,5.66,62,N/A,1988,2.64,2,5,120,120,12,Wargames,N/A
+Memorable Stories,5.506,6.2,32,N/A,2014,1.0,3,8,30,30,8,N/A,N/A
+"La Campagne de Gettysburg, 1863",5.506,6.39,32,N/A,1996,2.0,2,2,120,120,12,Wargames,N/A
+Carpniches,5.506,6.17,32,N/A,2025,2.5,2,2,10,30,8,N/A,N/A
+Fat Fish,5.506,5.72,89,N/A,2018,1.0,2,6,20,20,8,N/A,N/A
+MafiaDollar,5.506,5.94,31,N/A,2012,1.6,2,6,60,60,12,N/A,N/A
+Halli Galli Twist,5.506,6.24,41,N/A,2023,1.33,2,4,15,15,7,N/A,N/A
+Activity: Gold Edition,5.506,6.03,34,N/A,1999,1.0,3,16,90,90,12,N/A,N/A
+Gentleman's Deal,5.506,5.88,80,N/A,2016,1.0,5,9,30,60,12,N/A,N/A

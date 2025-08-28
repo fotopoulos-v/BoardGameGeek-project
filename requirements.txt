@@ -1,0 +1,7 @@
+beautifulsoup4==4.10.0
+pandas==2.3.2
+requests==2.32.5
+selenium==4.35.0
+
+# Python version requirement
+# python_version >= "3.12"
