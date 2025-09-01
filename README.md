@@ -1,11 +1,60 @@
+# 🎲 BoardGameGeek Data Scraping Project
 
-Data scraping from the website: "www.boardgamegeek.com" and creation of four csv files about board games which create a small database.
-These four csv files contain information about the board games ratings, types, minimum and maximum number of players, price, their designers, publishers, artists etc. 
-Total number of pages/board-games scraped for each csv file: around 25200.
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)  
+[![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange)](https://jupyter.org/)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-> It is Python code in a Jupyter notebook. It uses the following libraries:
->>Pandas, Beautiful Soup, Selenium.
+---
 
-+It is working in Linux Ubuntu but should also work in any other Operational System.
-+It opens the page www.boardgamegeek.com in a Chrome browser, it clicks the sign-in button, it enters the user's credentials and then scrapes the specified number of pages and scrapes the information inside them and stores it in csv files.
+## 📌 Project Overview
+
+This project scrapes board game data from [BoardGameGeek](https://www.boardgamegeek.com) and creates **four CSV files** that form a small database of board games.  
+
+The scraped data includes:  
+- ⭐ Ratings  
+- 🎲 Game types  
+- 👥 Minimum & maximum number of players  
+- 💲 Price  
+- ✍️ Designers  
+- 🏢 Publishers  
+- 🎨 Artists  
+- ...and more  
+
+**Total pages/board games scraped per CSV file:** ~25,200  
+
+---
+
+## ⚙️ Implementation
+
+- Written in **Python** inside a **Jupyter Notebook**.  
+- Uses the following libraries:  
+  - [`pandas`](https://pandas.pydata.org/)  
+  - [`beautifulsoup4`](https://www.crummy.com/software/BeautifulSoup/)  
+  - [`selenium`](https://www.selenium.dev/)  
+
+---
+
+## 🚀 How It Works
+
+1. Opens [BoardGameGeek](https://www.boardgamegeek.com) in a Chrome browser.  
+2. Clicks the **sign-in** button.  
+3. Enters the user’s credentials.  
+4. Scrapes the specified number of pages.  
+5. Extracts the information from each game.  
+6. Saves the results into structured **CSV files**.  
+
+---
+
+## 💻 Compatibility
+
+- ✅ Tested on **Linux Ubuntu**.  
+- 🔄 Should also work on **Windows** and **macOS**.  
+
+---
+
+## 📂 Output
+
+The scraping process generates four CSV files, which together form a small board game database.  
+
+
  
